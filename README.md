@@ -4,12 +4,17 @@
   <a href="https://twitter.com/wsdtty">Twitter</a>
 </p>
 
-I ❤ Open Source. I love Vim and Neovim.
+I ❤ Open Source.
 
-- Long-time Vim user
+- Long-time _Vim_ and _Neovim_ user
 - How to reach me: [@wsdtty](https://twitter.com/wsdtty) on Twitter
 
-Public repositories:
+**Blog posts:**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+**Public repositories:**
 
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim): A modular Vim/Neovim configuration
 - [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn): vim-galore 中文翻译，Vim 从入门到精通 
