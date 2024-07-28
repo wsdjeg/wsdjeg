@@ -9,8 +9,12 @@ I ❤ Open Source.
 - Long-time _Vim_ and _Neovim_ user
 - How to reach me: [@wsdtty](https://twitter.com/wsdtty) on Twitter
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wsdjeg&show_icons=true">
+
 **Blog posts:**
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Neovim 调色板插件 cpicker.nvim](https://wsdjeg.net/neovim-plugin-cpicker/)
 - [Neovim 缓冲区（buffer）相关事件](https://wsdjeg.net/neovim-buf-events/)
 - [&lpar;Neo&rpar;Vim 括号补全插件比较](https://wsdjeg.net/comparison-of-auto-pairs-plugins/)
@@ -18,27 +22,26 @@ I ❤ Open Source.
 - [更新 Neovim 遇到的问题](https://wsdjeg.net/fucking-problems-when-update-neovim/)
 <!-- BLOG-POST-LIST:END -->
 
-
 **Public repositories:**
 
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim): A modular Vim/Neovim configuration
-- [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn): vim-galore 中文翻译，Vim 从入门到精通 
+- [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn): vim-galore 中文翻译，Vim 从入门到精通
 - [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn): Learn-Vim 中文翻译
-- [vim-chat](https://github.com/wsdjeg/vim-chat): Chatting client for neovim/vim8 
+- [vim-chat](https://github.com/wsdjeg/vim-chat): Chatting client for neovim/vim8
 - [SourceCounter.vim](https://github.com/wsdjeg/SourceCounter.vim): source counter in vim
 - [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim): Neovim color picker
 - [vim-todo](https://github.com/wsdjeg/vim-todo): Better TODO manager plugin for neovim/vim
 - [FlyGrep.vim](https://github.com/wsdjeg/FlyGrep.vim): Asynchronously fly grep in vim
 - [dein-ui.vim](https://github.com/wsdjeg/dein-ui.vim): UI for Shougo's dein.vim
-- [ChineseLinter.vim](https://github.com/wsdjeg/ChineseLinter.vim): 中文文档语言规范检查工具 
+- [ChineseLinter.vim](https://github.com/wsdjeg/ChineseLinter.vim): 中文文档语言规范检查工具
 - [git.vim](https://github.com/wsdjeg/git.vim): git plugin for neovim and vim
 - [scrollbar.vim](https://github.com/wsdjeg/scrollbar.vim): floating scrollbar support for neovim/vim
 - [vim-fetch](https://github.com/wsdjeg/vim-fetch): process line and column jump specifications in file paths
-- [hello-vim](https://github.com/wsdjeg/hello-vim): Vim 中文资源整理 
-- [awesome-vimers](https://github.com/wsdjeg/awesome-vimers): 较有影响力的 Vim 用户及其插件作品 
+- [hello-vim](https://github.com/wsdjeg/hello-vim): Vim 中文资源整理
+- [awesome-vimers](https://github.com/wsdjeg/awesome-vimers): 较有影响力的 Vim 用户及其插件作品
 - [vim-plugin-dev-guide](https://github.com/wsdjeg/vim-plugin-dev-guide): Vim 插件开发指南
 - [gfr.vim](https://github.com/wsdjeg/gfr.vim): grep & filter & replace in vim/neovim
-- [JavaUnit.vim](https://github.com/wsdjeg/JavaUnit.vim): Java Unit Test in VIM 
+- [JavaUnit.vim](https://github.com/wsdjeg/JavaUnit.vim): Java Unit Test in VIM
 - [GitHub.vim](https://github.com/wsdjeg/GitHub.vim): Another github v3 api implemented in vim script
 - [vim-cheat](https://github.com/wsdjeg/vim-cheat): View cheatsheets via vim
 - [xmake.vim](https://github.com/wsdjeg/xmake.vim): xmake in vim
