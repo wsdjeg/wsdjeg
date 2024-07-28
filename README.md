@@ -9,7 +9,9 @@ I ❤ Open Source.
 - Long-time _Vim_ and _Neovim_ user
 - How to reach me: [@wsdtty](https://twitter.com/wsdtty) on Twitter
 
+<a href="https://github.com/wsdjeg">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wsdjeg&show_icons=true">
+</a>
 
 **Blog posts:**
 
