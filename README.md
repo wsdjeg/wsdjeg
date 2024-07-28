@@ -16,7 +16,6 @@ I ❤ Open Source.
 **Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Neovim 调色板插件 cpicker.nvim](https://wsdjeg.net/neovim-plugin-cpicker/)
 - [Neovim 缓冲区（buffer）相关事件](https://wsdjeg.net/neovim-buf-events/)
 - [&lpar;Neo&rpar;Vim 括号补全插件比较](https://wsdjeg.net/comparison-of-auto-pairs-plugins/)
