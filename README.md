@@ -16,11 +16,11 @@ I ❤ Open Source.
 **Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [实时调整 Neovim 的颜色主题](https://wsdjeg.net/patch-neovim-colorscheme-on-the-fly/)
 - [悬浮滚动条插件 scrollbar.vim](https://wsdjeg.net/floating-scrollbar-for-vim-and-neovim/)
 - [关于 Neovim 插件开发的指南](https://wsdjeg.net/about-the-nvim-plugin-dev-guide/)
 - [Neovim 调色板插件 cpicker.nvim](https://wsdjeg.net/neovim-plugin-cpicker/)
 - [Neovim 缓冲区（buffer）相关事件](https://wsdjeg.net/neovim-buf-events/)
-- [&lpar;Neo&rpar;Vim 括号补全插件比较](https://wsdjeg.net/comparison-of-auto-pairs-plugins/)
 <!-- BLOG-POST-LIST:END -->
 
 **Public repositories:**
