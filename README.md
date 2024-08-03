@@ -18,9 +18,9 @@ I ❤ Open Source.
 <!-- BLOG-POST-LIST:START -->
 - [悬浮滚动条插件 scrollbar.vim](https://wsdjeg.net/floating-scrollbar-for-vim-and-neovim/)
 - [关于 Neovim 插件开发的指南](https://wsdjeg.net/about-the-nvim-plugin-dev-guide/)
-- [新的知乎账号](https://wsdjeg.net/new-zhihu-account/)
 - [Neovim 调色板插件 cpicker.nvim](https://wsdjeg.net/neovim-plugin-cpicker/)
 - [Neovim 缓冲区（buffer）相关事件](https://wsdjeg.net/neovim-buf-events/)
+- [&lpar;Neo&rpar;Vim 括号补全插件比较](https://wsdjeg.net/comparison-of-auto-pairs-plugins/)
 <!-- BLOG-POST-LIST:END -->
 
 **Public repositories:**
