@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://wsdjeg.net/feed.xml"
+          max_post_count: 10
