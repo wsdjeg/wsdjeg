@@ -17,6 +17,7 @@ I ❤ Open Source.
 **Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [从 GitHub Page 切换至 Cloudflare Page](https://wsdjeg.net/from-github-page-to-cloudflare-page/)
 - [Vim9Script 与 Lua 的速度比较](https://wsdjeg.net/speed-comparison-between-vim9script-and-lua/)
 - [Neovim 和 Vim 插件管理器的实现逻辑](https://wsdjeg.net/the-implementation-logic-of-plugin-manager/)
 - [实时调整 Neovim 的颜色主题](https://wsdjeg.net/patch-neovim-colorscheme-on-the-fly/)
@@ -26,7 +27,6 @@ I ❤ Open Source.
 - [Neovim 缓冲区（buffer）相关事件](https://wsdjeg.net/neovim-buf-events/)
 - [&lpar;Neo&rpar;Vim 括号补全插件比较](https://wsdjeg.net/comparison-of-auto-pairs-plugins/)
 - [Lua 与 Vim Script 之间函数相互调用](https://wsdjeg.net/call-function-between-lua-and-vim-script/)
-- [更新 Neovim 遇到的问题](https://wsdjeg.net/fucking-problems-when-update-neovim/)
 <!-- BLOG-POST-LIST:END -->
 
 **Public repositories:**
