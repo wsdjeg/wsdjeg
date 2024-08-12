@@ -17,6 +17,7 @@ I ❤ Open Source.
 **Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 GitHub 进行身份验证时要小心](https://wsdjeg.net/be-careful-when-authenticating-with-github/)
 - [请停止复制我的个人网站](https://wsdjeg.net/stop-copy-my-static-website/)
 - [从 GitHub Page 切换至 Cloudflare Page](https://wsdjeg.net/from-github-page-to-cloudflare-page/)
 - [Vim9Script 与 Lua 的速度比较](https://wsdjeg.net/speed-comparison-between-vim9script-and-lua/)
@@ -26,7 +27,6 @@ I ❤ Open Source.
 - [关于 Neovim 插件开发的指南](https://wsdjeg.net/about-the-nvim-plugin-dev-guide/)
 - [Neovim 调色板插件 cpicker.nvim](https://wsdjeg.net/neovim-plugin-cpicker/)
 - [Neovim 缓冲区（buffer）相关事件](https://wsdjeg.net/neovim-buf-events/)
-- [&lpar;Neo&rpar;Vim 括号补全插件比较](https://wsdjeg.net/comparison-of-auto-pairs-plugins/)
 <!-- BLOG-POST-LIST:END -->
 
 **Public repositories:**
