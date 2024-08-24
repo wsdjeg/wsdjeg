@@ -17,6 +17,7 @@ I ❤ Open Source.
 **Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [删除 Telegram 账号](https://wsdjeg.net/delete-telegram-account/)
 - [Vim Script 的新语法](https://wsdjeg.net/new-syntax-for-vim-script/)
 - [龙迹之城散人玩家攻略](https://wsdjeg.net/20240821/)
 - [使用 GitHub 进行身份验证时要小心](https://wsdjeg.net/be-careful-when-authenticating-with-github/)
@@ -26,7 +27,6 @@ I ❤ Open Source.
 - [Neovim 和 Vim 插件管理器的实现逻辑](https://wsdjeg.net/the-implementation-logic-of-plugin-manager/)
 - [实时调整 Neovim 的颜色主题](https://wsdjeg.net/patch-neovim-colorscheme-on-the-fly/)
 - [悬浮滚动条插件 scrollbar.vim](https://wsdjeg.net/floating-scrollbar-for-vim-and-neovim/)
-- [关于 Neovim 插件开发的指南](https://wsdjeg.net/about-the-nvim-plugin-dev-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 **Public repositories:**
