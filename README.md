@@ -18,6 +18,7 @@ I ❤ Open Source.
 
 <!-- BLOG-POST-LIST:START -->
 - [Vim Script 的新语法](https://wsdjeg.net/new-syntax-for-vim-script/)
+- [龙迹之城散人玩家攻略](https://wsdjeg.net/20240821/)
 - [使用 GitHub 进行身份验证时要小心](https://wsdjeg.net/be-careful-when-authenticating-with-github/)
 - [请停止复制我的个人网站](https://wsdjeg.net/stop-copy-my-static-website/)
 - [从 GitHub Page 切换至 Cloudflare Page](https://wsdjeg.net/from-github-page-to-cloudflare-page/)
@@ -26,7 +27,6 @@ I ❤ Open Source.
 - [实时调整 Neovim 的颜色主题](https://wsdjeg.net/patch-neovim-colorscheme-on-the-fly/)
 - [悬浮滚动条插件 scrollbar.vim](https://wsdjeg.net/floating-scrollbar-for-vim-and-neovim/)
 - [关于 Neovim 插件开发的指南](https://wsdjeg.net/about-the-nvim-plugin-dev-guide/)
-- [Neovim 调色板插件 cpicker.nvim](https://wsdjeg.net/neovim-plugin-cpicker/)
 <!-- BLOG-POST-LIST:END -->
 
 **Public repositories:**
