@@ -1,14 +1,12 @@
 <h3 align="center">👋 Hello! I'm Eric Wong.</h3>
 <p align="center">
   <a href="https://wsdjeg.net/about/">About</a> •
-  <a href="https://wsdjeg.net">Blog</a> •
-  <a href="https://twitter.com/wsdtty">Twitter</a>
+  <a href="https://wsdjeg.net">Blog</a>
 </p>
 
 I ❤ Open Source.
 
 - Long-time _Vim_ and _Neovim_ user
-- How to reach me: [@wsdtty](https://twitter.com/wsdtty) on Twitter
 
 <a href="https://github.com/wsdjeg">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wsdjeg&show_icons=true">
