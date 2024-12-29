@@ -15,6 +15,7 @@ I ❤ Open Source.
 **Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Vim/Neovim 中使用正则表达式](https://wsdjeg.net/using-regular-expressions-in-vim-and-neovim/)
 - [Neovim 状态栏及标签栏点击事件](https://wsdjeg.net/neovim-tabline-statusline-click-events/)
 - [代码格式化插件 format.nvim](https://wsdjeg.net/code-formatting-plugin-format-nvim/)
 - [在 SpaceVim 中使用卢曼卡片盒笔记法做笔记](https://wsdjeg.net/zettelkasten-method-plugin-for-spacevim/)
@@ -24,7 +25,6 @@ I ❤ Open Source.
 - [龙迹之城散人玩家攻略](https://wsdjeg.net/20240821/)
 - [使用 GitHub 进行身份验证时要小心](https://wsdjeg.net/be-careful-when-authenticating-with-github/)
 - [请停止复制我的个人网站](https://wsdjeg.net/stop-copy-my-static-website/)
-- [从 GitHub Page 切换至 Cloudflare Page](https://wsdjeg.net/from-github-page-to-cloudflare-page/)
 <!-- BLOG-POST-LIST:END -->
 
 **Public repositories:**
