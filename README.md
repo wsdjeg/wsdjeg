@@ -49,3 +49,4 @@ I ❤ Open Source.
 - [vim-async-dict](https://github.com/wsdjeg/vim-async-dict): async dict plugin for vim
 - [vim-zettelkasten](https://github.com/wsdjeg/vim-zettelkasten): a Zettelkasten note taking plugin
 - [format.nvim](https://github.com/wsdjeg/format.nvim): an asynchronous code formatting plugin
+- [quickfix.nvim](https://github.com/wsdjeg/quickfix.nvim): general key bindings for quickfix window
