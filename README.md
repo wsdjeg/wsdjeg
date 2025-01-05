@@ -22,9 +22,9 @@ I ❤ Open Source.
 - [在 SpaceVim 中使用卢曼卡片盒笔记法做笔记](https://wsdjeg.net/zettelkasten-method-plugin-for-spacevim/)
 - [留心身边的“好东西”](https://wsdjeg.net/20241125/)
 - [《重生》：揭穿人性假面](https://wsdjeg.net/movie-review-go-for-broke/)
+- [删除 Telegram 账号](https://wsdjeg.net/delete-telegram-account/)
 - [Vim Script 的新语法](https://wsdjeg.net/new-syntax-for-vim-script/)
 - [龙迹之城散人玩家攻略](https://wsdjeg.net/20240821/)
-- [使用 GitHub 进行身份验证时要小心](https://wsdjeg.net/be-careful-when-authenticating-with-github/)
 <!-- BLOG-POST-LIST:END -->
 
 **Public repositories:**
