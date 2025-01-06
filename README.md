@@ -9,7 +9,7 @@ I ❤ Open Source.
 - Long-time _Vim_ and _Neovim_ user
 
 <a href="https://github.com/wsdjeg">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wsdjeg&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=wsdjeg&show_icons=true">
 </a>
 
 **Blog posts:**
