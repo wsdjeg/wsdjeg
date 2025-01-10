@@ -15,6 +15,7 @@ I ❤ Open Source.
 **Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [自定义 quickfix 窗口格式](https://wsdjeg.net/custom-quickfix-format/)
 - [《误杀3》观后感](https://wsdjeg.net/20250108/)
 - [Neovim quickfix 窗口内的一些快捷键](https://wsdjeg.net/key-bindings-for-neovim-quickfix-window/)
 - [Vim/Neovim 中使用正则表达式](https://wsdjeg.net/using-regular-expressions-in-vim-and-neovim/)
@@ -24,7 +25,6 @@ I ❤ Open Source.
 - [《好东西》观后感](https://wsdjeg.net/20241125/)
 - [《重生》：揭穿人性假面](https://wsdjeg.net/movie-review-go-for-broke/)
 - [删除 Telegram 账号](https://wsdjeg.net/delete-telegram-account/)
-- [Vim Script 的新语法](https://wsdjeg.net/new-syntax-for-vim-script/)
 <!-- BLOG-POST-LIST:END -->
 
 **Public repositories:**
