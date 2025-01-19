@@ -15,6 +15,7 @@ I ❤ Open Source.
 **Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovim extmarks 功能介绍](https://wsdjeg.net/neovim-extmarks/)
 - [Neovim winbar 设置](https://wsdjeg.net/neovim-winbar/)
 - [自定义 quickfix 窗口格式](https://wsdjeg.net/custom-quickfix-format/)
 - [《误杀3》观后感](https://wsdjeg.net/20250108/)
@@ -24,7 +25,6 @@ I ❤ Open Source.
 - [代码格式化插件 format.nvim](https://wsdjeg.net/code-formatting-plugin-format-nvim/)
 - [在 SpaceVim 中使用卢曼卡片盒笔记法做笔记](https://wsdjeg.net/zettelkasten-method-plugin-for-spacevim/)
 - [《好东西》观后感](https://wsdjeg.net/20241125/)
-- [《重生》：揭穿人性假面](https://wsdjeg.net/movie-review-go-for-broke/)
 <!-- BLOG-POST-LIST:END -->
 
 **Public repositories:**
