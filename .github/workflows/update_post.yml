@@ -18,3 +18,5 @@ jobs:
         with:
           feed_list: "https://wsdjeg.net/feed.xml"
           max_post_count: 10
+          committer_username: Eric Wong
+          committer_email: wsdjeg@outlook.com
