@@ -29,12 +29,13 @@ I ❤ Open Source.
 
 **Public repositories:**
 
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim): A modular Vim/Neovim configuration
+- [SpaceVim](https://github.com/wsdjeg/SpaceVim): A modular Vim/Neovim configuration
 - [vim-chat](https://github.com/wsdjeg/vim-chat): Chatting client for neovim/vim8
 - [SourceCounter.vim](https://github.com/wsdjeg/SourceCounter.vim): source counter in vim
 - [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim): Neovim color picker
 - [vim-todo](https://github.com/wsdjeg/vim-todo): Better TODO manager plugin for neovim/vim
 - [FlyGrep.vim](https://github.com/wsdjeg/FlyGrep.vim): Asynchronously fly grep in vim
+- [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim): Asynchronously fly grep in neovim
 - [dein-ui.vim](https://github.com/wsdjeg/dein-ui.vim): UI for Shougo's dein.vim
 - [ChineseLinter.vim](https://github.com/wsdjeg/ChineseLinter.vim): 中文文档语言规范检查工具
 - [git.vim](https://github.com/wsdjeg/git.vim): git plugin for neovim and vim
@@ -50,3 +51,5 @@ I ❤ Open Source.
 - [vim-zettelkasten](https://github.com/wsdjeg/vim-zettelkasten): a Zettelkasten note taking plugin
 - [format.nvim](https://github.com/wsdjeg/format.nvim): an asynchronous code formatting plugin
 - [quickfix.nvim](https://github.com/wsdjeg/quickfix.nvim): general key bindings for quickfix window
+- [winbar.nvim](https://github.com/wsdjeg/winbar.nvim): a plugin which provides default winbar for neovim
+- [record-key.nvim](https://github.com/wsdjeg/record-key.nvim): a plugin to display pressed key in neovim
