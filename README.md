@@ -15,7 +15,7 @@ I ❤ Open Source.
 **Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
-- [从 VimScipt 切换至 Lua](https://wsdjeg.net/from_vimscript_to_lua/)
+- [从 VimScipt 切换至 Lua](https://wsdjeg.net/from-vimscript-to-lua/)
 - [启用 Git Commit 签名](https://wsdjeg.net/enable-git-commit-signing/)
 - [从零开始制作实时搜索插件](https://wsdjeg.net/create-a-searching-plugin-from-scratch/)
 - [Neovim extmarks 功能介绍](https://wsdjeg.net/neovim-extmarks/)
