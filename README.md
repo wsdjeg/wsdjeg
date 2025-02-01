@@ -15,6 +15,7 @@ I ❤ Open Source.
 **Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [从 VimScipt 切换至 Lua](https://wsdjeg.net/from_vimscript_to_lua/)
 - [启用 Git Commit 签名](https://wsdjeg.net/enable-git-commit-signing/)
 - [从零开始制作实时搜索插件](https://wsdjeg.net/create-a-searching-plugin-from-scratch/)
 - [Neovim extmarks 功能介绍](https://wsdjeg.net/neovim-extmarks/)
@@ -24,7 +25,6 @@ I ❤ Open Source.
 - [Neovim quickfix 窗口内的一些快捷键](https://wsdjeg.net/key-bindings-for-neovim-quickfix-window/)
 - [Vim/Neovim 中使用正则表达式](https://wsdjeg.net/using-regular-expressions-in-vim-and-neovim/)
 - [Neovim 状态栏及标签栏点击事件](https://wsdjeg.net/neovim-tabline-statusline-click-events/)
-- [代码格式化插件 format.nvim](https://wsdjeg.net/code-formatting-plugin-format-nvim/)
 <!-- BLOG-POST-LIST:END -->
 
 **Public repositories:**
