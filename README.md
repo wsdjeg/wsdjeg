@@ -12,7 +12,7 @@ I ❤ Open Source.
 <img src="https://github-readme-stats.vercel.app/api?username=wsdjeg&show_icons=true">
 </a>
 
-**Blog posts:**
+## Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [从 VimScipt 切换至 Lua](https://wsdjeg.net/from-vimscript-to-lua/)
@@ -27,29 +27,10 @@ I ❤ Open Source.
 - [Neovim 状态栏及标签栏点击事件](https://wsdjeg.net/neovim-tabline-statusline-click-events/)
 <!-- BLOG-POST-LIST:END -->
 
-**Public repositories:**
+## Recent Activity
 
-- [SpaceVim](https://github.com/wsdjeg/SpaceVim): A modular Vim/Neovim configuration
-- [vim-chat](https://github.com/wsdjeg/vim-chat): Chatting client for neovim/vim8
-- [SourceCounter.vim](https://github.com/wsdjeg/SourceCounter.vim): source counter in vim
-- [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim): Neovim color picker
-- [vim-todo](https://github.com/wsdjeg/vim-todo): Better TODO manager plugin for neovim/vim
-- [FlyGrep.vim](https://github.com/wsdjeg/FlyGrep.vim): Asynchronously fly grep in vim
-- [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim): Asynchronously fly grep in neovim
-- [dein-ui.vim](https://github.com/wsdjeg/dein-ui.vim): UI for Shougo's dein.vim
-- [ChineseLinter.vim](https://github.com/wsdjeg/ChineseLinter.vim): 中文文档语言规范检查工具
-- [git.vim](https://github.com/wsdjeg/git.vim): git plugin for neovim and vim
-- [scrollbar.vim](https://github.com/wsdjeg/scrollbar.vim): floating scrollbar support for neovim/vim
-- [vim-fetch](https://github.com/wsdjeg/vim-fetch): process line and column jump specifications in file paths
-- [gfr.vim](https://github.com/wsdjeg/gfr.vim): grep & filter & replace in vim/neovim
-- [JavaUnit.vim](https://github.com/wsdjeg/JavaUnit.vim): Java Unit Test in VIM
-- [GitHub.vim](https://github.com/wsdjeg/GitHub.vim): Another github v3 api implemented in vim script
-- [vim-cheat](https://github.com/wsdjeg/vim-cheat): View cheatsheets via vim
-- [xmake.vim](https://github.com/wsdjeg/xmake.vim): xmake in vim
-- [mdctags.rs](https://github.com/wsdjeg/mdctags.rs): markdown support for tagbar
-- [vim-async-dict](https://github.com/wsdjeg/vim-async-dict): async dict plugin for vim
-- [vim-zettelkasten](https://github.com/wsdjeg/vim-zettelkasten): a Zettelkasten note taking plugin
-- [format.nvim](https://github.com/wsdjeg/format.nvim): an asynchronous code formatting plugin
-- [quickfix.nvim](https://github.com/wsdjeg/quickfix.nvim): general key bindings for quickfix window
-- [winbar.nvim](https://github.com/wsdjeg/winbar.nvim): a plugin which provides default winbar for neovim
-- [record-key.nvim](https://github.com/wsdjeg/record-key.nvim): a plugin to display pressed key in neovim
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
