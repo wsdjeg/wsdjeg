@@ -1,12 +1,9 @@
 <h3 align="center">👋 Hello! I'm Eric Wong.</h3>
 <p align="center">
   <a href="https://wsdjeg.net/about/">About</a> •
-  <a href="https://wsdjeg.net">Blog</a>
+  <a href="https://wsdjeg.net">Blog</a> •
+  <a href="https://wsdjeg.net/git/">Open Source</a>
 </p>
-
-I ❤ Open Source.
-
-- Long-time _Vim_ and _Neovim_ user
 
 <a href="https://github.com/wsdjeg">
 <img src="https://github-readme-stats.vercel.app/api?username=wsdjeg&show_icons=true">
@@ -27,10 +24,3 @@ I ❤ Open Source.
 - [Neovim 状态栏及标签栏点击事件](https://wsdjeg.net/neovim-tabline-statusline-click-events/)
 <!-- BLOG-POST-LIST:END -->
 
-## Recent Activity
-
-This is a list of my most recent activity on GitHub.
-
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->

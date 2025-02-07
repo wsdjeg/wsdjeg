@@ -17,6 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://wsdjeg.net/feed.xml"
-          max_post_count: 10
+          max_post_count: 15
           committer_username: Eric Wong
           committer_email: wsdjeg@outlook.com
