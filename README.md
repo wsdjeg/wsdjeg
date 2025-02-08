@@ -5,9 +5,11 @@
   <a href="https://wsdjeg.net/git/">Open Source</a>
 </p>
 
+<p align="center">
 <a href="https://github.com/wsdjeg">
 <img src="https://github-readme-stats.vercel.app/api?username=wsdjeg&show_icons=true">
 </a>
+</p>
 
 ## Recent Posts
 
