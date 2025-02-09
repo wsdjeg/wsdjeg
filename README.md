@@ -14,6 +14,7 @@
 ## Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovim 插件管理器 nvim-plug](https://wsdjeg.net/neovim-plugin-manager-nvim-plug/)
 - [从 VimScipt 切换至 Lua](https://wsdjeg.net/from-vimscript-to-lua/)
 - [启用 Git Commit 签名](https://wsdjeg.net/enable-git-commit-signing/)
 - [从零开始制作实时搜索插件](https://wsdjeg.net/create-a-searching-plugin-from-scratch/)
@@ -28,6 +29,5 @@
 - [在 SpaceVim 中使用卢曼卡片盒笔记法做笔记](https://wsdjeg.net/zettelkasten-method-plugin-for-spacevim/)
 - [《好东西》观后感](https://wsdjeg.net/20241125/)
 - [《重生》：揭穿人性假面](https://wsdjeg.net/movie-review-go-for-broke/)
-- [删除 Telegram 账号](https://wsdjeg.net/delete-telegram-account/)
 <!-- BLOG-POST-LIST:END -->
 
