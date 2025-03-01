@@ -14,6 +14,8 @@
 ## Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovim 任务管理插件 tasks.nvim](https://wsdjeg.net/tasks-manager-for-neovim/)
+- [Neovim 代码执行插件 code-runner.nvim](https://wsdjeg.net/neovim-code-runner/)
 - [Neovim 插件管理器 nvim-plug](https://wsdjeg.net/neovim-plugin-manager-nvim-plug/)
 - [从 VimScipt 切换至 Lua](https://wsdjeg.net/from-vimscript-to-lua/)
 - [启用 Git Commit 签名](https://wsdjeg.net/enable-git-commit-signing/)
@@ -27,7 +29,5 @@
 - [Neovim 状态栏及标签栏点击事件](https://wsdjeg.net/neovim-tabline-statusline-click-events/)
 - [代码格式化插件 format.nvim](https://wsdjeg.net/code-formatting-plugin-format-nvim/)
 - [在 SpaceVim 中使用卢曼卡片盒笔记法做笔记](https://wsdjeg.net/zettelkasten-method-plugin-for-spacevim/)
-- [《好东西》观后感](https://wsdjeg.net/20241125/)
-- [《重生》：揭穿人性假面](https://wsdjeg.net/movie-review-go-for-broke/)
 <!-- BLOG-POST-LIST:END -->
 
