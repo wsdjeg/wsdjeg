@@ -40,3 +40,13 @@
 <a href="https://github.com/wsdjeg/nvim-plug">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=nvim-plug" />
 </a>
+
+<a href="https://github.com/wsdjeg/tasks.nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=tasks.nvim" />
+</a>
+
+<a href="https://github.com/wsdjeg/code-runner.nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=code-runner.nvim" />
+</a>
+
+
