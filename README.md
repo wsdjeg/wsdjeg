@@ -31,3 +31,12 @@
 - [在 SpaceVim 中使用卢曼卡片盒笔记法做笔记](https://wsdjeg.net/zettelkasten-method-plugin-for-spacevim/)
 <!-- BLOG-POST-LIST:END -->
 
+## Repositories
+
+<a href="https://github.com/wsdjeg/flygrep.nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=flygrep.nvim" />
+</a>
+
+<a href="https://github.com/wsdjeg/nvim-plug">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=nvim-plug" />
+</a>
