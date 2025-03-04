@@ -26,7 +26,7 @@ endfunction
 
 
 function! s:generate_content() abort
-        let repos = ['flygrep.nvim', 'nvim-plug', 'tasks.nvim', 'code-runner.nvim', 'tabline-nvim', 'statusline.nvim', 'todo.nvim']
+        let repos = ['flygrep.nvim', 'nvim-plug', 'tasks.nvim', 'code-runner.nvim', 'tabline.nvim', 'statusline.nvim', 'todo.nvim']
         let lines = []
         for repo in repos
                 call add(lines, '<a href="https://github.com/wsdjeg/' . repo . '">')
