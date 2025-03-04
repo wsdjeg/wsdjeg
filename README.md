@@ -33,6 +33,7 @@
 
 ## Repositories
 
+<!-- wsdjeg repos start -->
 <a href="https://github.com/wsdjeg/flygrep.nvim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=flygrep.nvim" />
 </a>
@@ -49,4 +50,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=code-runner.nvim" />
 </a>
 
+<!-- wsdjeg repos end -->
 
