@@ -50,8 +50,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=code-runner.nvim" />
 </a>
 
-<a href="https://github.com/wsdjeg/tabline-nvim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=tabline-nvim" />
+<a href="https://github.com/wsdjeg/tabline.nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=tabline.nvim" />
 </a>
 
 <a href="https://github.com/wsdjeg/statusline.nvim">
