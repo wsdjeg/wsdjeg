@@ -34,16 +34,44 @@
 ## Repositories
 
 <!-- wsdjeg repos start -->
+<a href="https://github.com/wsdjeg/terminal.nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=terminal.nvim" />
+</a>
+
 <a href="https://github.com/wsdjeg/flygrep.nvim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=flygrep.nvim" />
+</a>
+
+<a href="https://github.com/wsdjeg/vim-zettelkasten">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=vim-zettelkasten" />
+</a>
+
+<a href="https://github.com/wsdjeg/logger.nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=logger.nvim" />
 </a>
 
 <a href="https://github.com/wsdjeg/nvim-plug">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=nvim-plug" />
 </a>
 
-<a href="https://github.com/wsdjeg/tasks.nvim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=tasks.nvim" />
+<a href="https://github.com/wsdjeg/git.vim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=git.vim" />
+</a>
+
+<a href="https://github.com/wsdjeg/rooter.nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=rooter.nvim" />
+</a>
+
+<a href="https://github.com/wsdjeg/scrollbar.vim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=scrollbar.vim" />
+</a>
+
+<a href="https://github.com/wsdjeg/mru.nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=mru.nvim" />
+</a>
+
+<a href="https://github.com/wsdjeg/statusline.nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=statusline.nvim" />
 </a>
 
 <a href="https://github.com/wsdjeg/code-runner.nvim">
@@ -54,12 +82,24 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=tabline.nvim" />
 </a>
 
-<a href="https://github.com/wsdjeg/statusline.nvim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=statusline.nvim" />
+<a href="https://github.com/wsdjeg/tasks.nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=tasks.nvim" />
+</a>
+
+<a href="https://github.com/wsdjeg/dashboard-nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=dashboard-nvim" />
 </a>
 
 <a href="https://github.com/wsdjeg/todo.nvim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=todo.nvim" />
+</a>
+
+<a href="https://github.com/wsdjeg/record-key.nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=record-key.nvim" />
+</a>
+
+<a href="https://github.com/wsdjeg/format.nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdjeg&repo=format.nvim" />
 </a>
 
 <!-- wsdjeg repos end -->
