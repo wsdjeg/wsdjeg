@@ -14,6 +14,7 @@
 ## Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovim 日志插件 logger.nvim](https://wsdjeg.net/neovim-logger/)
 - [Neovim 任务管理插件 tasks.nvim](https://wsdjeg.net/tasks-manager-for-neovim/)
 - [Neovim 代码执行插件 code-runner.nvim](https://wsdjeg.net/neovim-code-runner/)
 - [Neovim 插件管理器 nvim-plug](https://wsdjeg.net/neovim-plugin-manager-nvim-plug/)
@@ -28,7 +29,6 @@
 - [Vim/Neovim 中使用正则表达式](https://wsdjeg.net/using-regular-expressions-in-vim-and-neovim/)
 - [Neovim 状态栏及标签栏点击事件](https://wsdjeg.net/neovim-tabline-statusline-click-events/)
 - [代码格式化插件 format.nvim](https://wsdjeg.net/code-formatting-plugin-format-nvim/)
-- [在 SpaceVim 中使用卢曼卡片盒笔记法做笔记](https://wsdjeg.net/zettelkasten-method-plugin-for-spacevim/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositories
