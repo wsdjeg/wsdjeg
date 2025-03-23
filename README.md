@@ -14,6 +14,7 @@
 ## Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovim 自动切换至项目根目录](https://wsdjeg.net/neovim-project-root-manager/)
 - [Neovim 日志插件 logger.nvim](https://wsdjeg.net/neovim-logger/)
 - [Neovim 任务管理插件 tasks.nvim](https://wsdjeg.net/tasks-manager-for-neovim/)
 - [Neovim 代码执行插件 code-runner.nvim](https://wsdjeg.net/neovim-code-runner/)
@@ -28,7 +29,6 @@
 - [Neovim quickfix 窗口内的一些快捷键](https://wsdjeg.net/key-bindings-for-neovim-quickfix-window/)
 - [Vim/Neovim 中使用正则表达式](https://wsdjeg.net/using-regular-expressions-in-vim-and-neovim/)
 - [Neovim 状态栏及标签栏点击事件](https://wsdjeg.net/neovim-tabline-statusline-click-events/)
-- [代码格式化插件 format.nvim](https://wsdjeg.net/code-formatting-plugin-format-nvim/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositories
