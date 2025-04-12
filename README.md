@@ -14,6 +14,7 @@
 ## Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovim 录制按键及屏幕](https://wsdjeg.net/neovim-record-key-and-screen/)
 - [Neovim 自动切换至项目根目录](https://wsdjeg.net/neovim-project-root-manager/)
 - [Neovim 日志插件 logger.nvim](https://wsdjeg.net/neovim-logger/)
 - [Neovim 任务管理插件 tasks.nvim](https://wsdjeg.net/tasks-manager-for-neovim/)
@@ -28,7 +29,6 @@
 - [《误杀3》观后感](https://wsdjeg.net/20250108/)
 - [Neovim quickfix 窗口内的一些快捷键](https://wsdjeg.net/key-bindings-for-neovim-quickfix-window/)
 - [Vim/Neovim 中使用正则表达式](https://wsdjeg.net/using-regular-expressions-in-vim-and-neovim/)
-- [Neovim 状态栏及标签栏点击事件](https://wsdjeg.net/neovim-tabline-statusline-click-events/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositories
