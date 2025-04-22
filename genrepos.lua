@@ -24,7 +24,7 @@ end
 local function generate_content()
 	local repos = {}
 	for _, v in pairs(require("plug").get()) do
-		if vim.regex("wsdjeg"):match_str(v[1]) then
+		if vim.regex("^wsdjeg/"):match_str(v[1]) and not v.fetch then
 			table.insert(repos, v.name)
 		end
 	end
