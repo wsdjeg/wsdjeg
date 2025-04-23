@@ -14,6 +14,7 @@
 ## Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [解决 Windows 系统下输入法问题](https://wsdjeg.net/neovim-im-select-in-windows/)
 - [Neovim 近期文件浏览历史记录](https://wsdjeg.net/neovim-most-recently-used-files/)
 - [Neovim 录制按键及屏幕](https://wsdjeg.net/neovim-record-key-and-screen/)
 - [Neovim 自动切换至项目根目录](https://wsdjeg.net/neovim-project-root-manager/)
@@ -28,7 +29,6 @@
 - [Neovim winbar 设置](https://wsdjeg.net/neovim-winbar/)
 - [自定义 quickfix 窗口格式](https://wsdjeg.net/custom-quickfix-format/)
 - [《误杀3》观后感](https://wsdjeg.net/20250108/)
-- [Neovim quickfix 窗口内的一些快捷键](https://wsdjeg.net/key-bindings-for-neovim-quickfix-window/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Repositories
