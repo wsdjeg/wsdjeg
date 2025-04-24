@@ -14,7 +14,6 @@
 ## Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [解决 Windows 系统下输入法问题](https://wsdjeg.net/neovim-im-select-in-windows/)
 - [Neovim 近期文件浏览历史记录](https://wsdjeg.net/neovim-most-recently-used-files/)
 - [Neovim 录制按键及屏幕](https://wsdjeg.net/neovim-record-key-and-screen/)
