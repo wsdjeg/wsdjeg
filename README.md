@@ -1,7 +1,6 @@
 <h3 align="center">👋 Hello! I'm Eric Wong.</h3>
 <p align="center">
   <a href="https://wsdjeg.net/">Blog</a> •
-  <a href="https://x.com/wsdjeg">Twitter</a>
 </p>
 
 <p align="center">
