@@ -20,6 +20,14 @@
 - [rooter.nvim](https://github.com/wsdjeg/rooter.nvim): cd project root automatically
 - [git.nvim](https://github.com/wsdjeg/git.nvim): use git command in neovim
 - [ctags.nvim](https://github.com/wsdjeg/ctags.nvim): ctags integration for neovim
+- [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim): Async Code Runner for Neovim
+- [music-player.nvim](https://github.com/wsdjeg/music-player.nvim): music player for neovim
+- [mru.nvim](https://github.com/wsdjeg/mru.nvim): MRU(Most Recently Used) Files for Neovim
+- [scrollbar.nvim](https://github.com/wsdjeg/scrollbar.nvim): scrollbar for neovim
+- [record-key.nvim](https://github.com/wsdjeg/record-key.nvim): Recording keyboard keys in Neovim
+- [zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim): a Zettelkasten note taking plugin
+- [terminal.nvim](https://github.com/wsdjeg/terminal.nvim): simple floating terminal plugin for Neovim
+- [logger.nvim](https://github.com/wsdjeg/logger.nvim): neovim runtime logger
 
 
 ## Recent Posts
