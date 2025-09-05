@@ -28,6 +28,8 @@
 - [zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim): a Zettelkasten note taking plugin
 - [terminal.nvim](https://github.com/wsdjeg/terminal.nvim): simple floating terminal plugin for Neovim
 - [logger.nvim](https://github.com/wsdjeg/logger.nvim): neovim runtime logger
+- [record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim): Neovim screen recording plugin 
+- [tasks.nvim](https://github.com/wsdjeg/tasks.nvim): tasks manager for neovim
 
 
 ## Recent Posts
