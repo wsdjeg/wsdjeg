@@ -28,13 +28,32 @@
 - [zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim): a Zettelkasten note taking plugin
 - [terminal.nvim](https://github.com/wsdjeg/terminal.nvim): simple floating terminal plugin for Neovim
 - [logger.nvim](https://github.com/wsdjeg/logger.nvim): neovim runtime logger
-- [record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim): Neovim screen recording plugin 
+- [record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim): Neovim screen recording plugin
 - [tasks.nvim](https://github.com/wsdjeg/tasks.nvim): tasks manager for neovim
-
+- [gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim): Goto/Copy File's Online Link
+- [tabline.nvim](https://github.com/wsdjeg/tabline.nvim): simple tabline plugin for Neovim
+- [iedit.nvim](https://github.com/wsdjeg/iedit.nvim): iedit mode for neovim
+- [notify.nvim](https://github.com/wsdjeg/notify.nvim): notification framework plugin for neovim
+- [git.vim](https://github.com/wsdjeg/git.vim): Use git in spacevim
+- [repl.nvim](https://github.com/wsdjeg/repl.nvim): repl for neovim
+- [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim): Color Converter for neovim
+- [todo.nvim](https://github.com/wsdjeg/todo.nvim):todo manager plugin for Neovim
+- [vim-chat](https://github.com/wsdjeg/vim-chat): Chatting client for neovim/vim8
+- [ctrlg.nvim](https://github.com/wsdjeg/ctrlg.nvim): More beautiful ctrl-g output
+- [ChineseLinter.vim](https://github.com/wsdjeg/ChineseLinter.vim): 中文文档语言规范检查工具
+- [winbar.nvim](https://github.com/wsdjeg/winbar.nvim): winbar for neovim
+- [dashboard-nvim](https://github.com/wsdjeg/dashboard-nvim): forked dashboard for neovim
+- [SpaceVim](https://github.com/wsdjeg/SpaceVim): A modular configuration of Vim and Neovim
+- [dein-ui.vim](https://github.com/wsdjeg/dein-ui.vim): UI for Shougo's dein.vim
+- [FlyGrep.vim](https://github.com/wsdjeg/FlyGrep.vim): Asynchronously fly grep in vim
+- [.SpaceVim.d](https://github.com/wsdjeg/.SpaceVim.d): spacevim dotfiles
+- [vim-todo](https://github.com/wsdjeg/vim-todo): Better TODO manager plugin for neovim/vim
+- [quickfix.nvim](https://github.com/wsdjeg/quickfix.nvim): general key bindings for quickfix window
 
 ## Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [为什么有那么多人讨厌清朝？](https://wsdjeg.net/20250903/)
 - [Lua 可变参数](https://wsdjeg.net/lua-function-argvs/)
 - [高效处理 Markdown 中的代码块](https://wsdjeg.net/code-block-in-markdown/)
