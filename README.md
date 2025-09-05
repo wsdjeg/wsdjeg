@@ -53,7 +53,6 @@
 ## Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [为什么有那么多人讨厌清朝？](https://wsdjeg.net/20250903/)
 - [Lua 可变参数](https://wsdjeg.net/lua-function-argvs/)
 - [高效处理 Markdown 中的代码块](https://wsdjeg.net/code-block-in-markdown/)
