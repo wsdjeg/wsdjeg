@@ -14,6 +14,12 @@
 - [nvim-plug](https://github.com/wsdjeg/nvim-plug): asynchronous Neovim plugin manager
 - [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim): search text in neovim floating window asynchronously
 - [format.nvim](https://github.com/wsdjeg/format.nvim): asynchronous code formatting plugin
+- [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim): simple bookmarks manager for neovim
+- [statusline.nvim](https://github.com/wsdjeg/statusline.nvim): module statusline plugin for neovim
+- [job.nvim](https://github.com/wsdjeg/job.nvim): async job control api for neovim
+- [rooter.nvim](https://github.com/wsdjeg/rooter.nvim): cd project root automatically
+- [git.nvim](https://github.com/wsdjeg/git.nvim): use git command in neovim
+- [ctags.nvim](https://github.com/wsdjeg/ctags.nvim): ctags integration for neovim
 
 
 ## Recent Posts
