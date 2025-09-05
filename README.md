@@ -9,6 +9,27 @@
 </a>
 </p>
 
+## Neovim Plugins
+
+- [nvim-plug](https://github.com/wsdjeg/nvim-plug): asynchronous Neovim plugin manager
+- [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim): search text in neovim floating window asynchronously
+- [format.nvim](https://github.com/wsdjeg/format.nvim): asynchronous code formatting plugin
+- [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim): simple bookmarks manager for neovim
+- [statusline.nvim](https://github.com/wsdjeg/statusline.nvim): module statusline plugin for neovim
+- [job.nvim](https://github.com/wsdjeg/job.nvim): async job control api for neovim
+- [rooter.nvim](https://github.com/wsdjeg/rooter.nvim): cd project root automatically
+- [git.nvim](https://github.com/wsdjeg/git.nvim): use git command in neovim
+- [ctags.nvim](https://github.com/wsdjeg/ctags.nvim): ctags integration for neovim
+- [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim): Async Code Runner for Neovim
+- [music-player.nvim](https://github.com/wsdjeg/music-player.nvim): music player for neovim
+- [mru.nvim](https://github.com/wsdjeg/mru.nvim): MRU(Most Recently Used) Files for Neovim
+- [scrollbar.nvim](https://github.com/wsdjeg/scrollbar.nvim): scrollbar for neovim
+- [record-key.nvim](https://github.com/wsdjeg/record-key.nvim): Recording keyboard keys in Neovim
+- [zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim): a Zettelkasten note taking plugin
+- [terminal.nvim](https://github.com/wsdjeg/terminal.nvim): simple floating terminal plugin for Neovim
+- [logger.nvim](https://github.com/wsdjeg/logger.nvim): neovim runtime logger
+
+
 ## Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
