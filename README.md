@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hello! I'm Eric Wong.</h3>
 <p align="center">
-  <a href="https://wsdjeg.net/">Blog</a> •
+  <a href="https://wsdjeg.net/">Blog</a>
 </p>
 
 <p align="center">
@@ -8,6 +8,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=wsdjeg&show_icons=true">
 </a>
 </p>
+
+## Neovim Plugins
+
+- [nvim-plug](https://github.com/wsdjeg/nvim-plug): asynchronous Neovim plugin manager
+- [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim): search text in neovim floating window asynchronously
+
 
 ## Recent Posts
 
