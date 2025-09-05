@@ -13,6 +13,7 @@
 
 - [nvim-plug](https://github.com/wsdjeg/nvim-plug): asynchronous Neovim plugin manager
 - [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim): search text in neovim floating window asynchronously
+- [format.nvim](https://github.com/wsdjeg/format.nvim): asynchronous code formatting plugin
 
 
 ## Recent Posts
