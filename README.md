@@ -9,7 +9,7 @@
 </a>
 </p>
 
-## Neovim Plugins
+## (Neo)vim Plugins
 
 - [nvim-plug](https://github.com/wsdjeg/nvim-plug): asynchronous Neovim plugin manager
 - [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim): search text in neovim floating window asynchronously
@@ -49,6 +49,18 @@
 - [.SpaceVim.d](https://github.com/wsdjeg/.SpaceVim.d): spacevim dotfiles
 - [vim-todo](https://github.com/wsdjeg/vim-todo): Better TODO manager plugin for neovim/vim
 - [quickfix.nvim](https://github.com/wsdjeg/quickfix.nvim): general key bindings for quickfix window
+- [vim-async-dict](https://github.com/wsdjeg/vim-async-dict): 字典补全命令行工具
+- [gtags.vim](https://github.com/wsdjeg/gtags.vim): gtags integration for neovim
+- [SourceCounter.vim](https://github.com/wsdjeg/SourceCounter.vim): source counter in vim
+- [vim-fetch](https://github.com/wsdjeg/vim-fetch): Fetch that line and column, boy!
+- [gfr.vim](https://github.com/wsdjeg/gfr.vim): grep & filter & replace in vim/neovim
+- [JavaUnit.vim](https://github.com/wsdjeg/JavaUnit.vim): java unit test
+- [GitHub.vim](https://github.com/wsdjeg/GitHub.vim): Another github v3 api implemented in vim script
+- [xmake.vim](https://github.com/wsdjeg/xmake.vim): xmake integration for vim
+- [vim-cheat](https://github.com/wsdjeg/vim-cheat): View cheatsheets via vim
+- [vim-pact](https://github.com/wsdjeg/vim-pact): pact language support for vim
+- [vim-markdown](https://github.com/wsdjeg/vim-markdown): markdown mode for SpaceVim
+- [vim-autohotkey](https://github.com/wsdjeg/vim-autohotkey): autohotkey support for vim/neovim
 
 ## Recent Posts
 
