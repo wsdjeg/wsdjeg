@@ -65,6 +65,7 @@
 ## Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Github 仓库自动 release](https://wsdjeg.net/release-please-action/)
 - [为什么有那么多人讨厌清朝？](https://wsdjeg.net/20250903/)
 - [Lua 可变参数](https://wsdjeg.net/lua-function-argvs/)
 - [高效处理 Markdown 中的代码块](https://wsdjeg.net/code-block-in-markdown/)
@@ -79,7 +80,6 @@
 - [Neovim 插件管理器 nvim-plug](https://wsdjeg.net/neovim-plugin-manager-nvim-plug/)
 - [从 VimScipt 切换至 Lua](https://wsdjeg.net/from-vimscript-to-lua/)
 - [启用 Git Commit 签名](https://wsdjeg.net/enable-git-commit-signing/)
-- [从零开始制作实时搜索插件](https://wsdjeg.net/create-a-searching-plugin-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- wsdjeg repos end -->
