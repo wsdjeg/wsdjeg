@@ -9,58 +9,58 @@
 </a>
 </p>
 
-## (Neo)vim Plugins
+## Current Projects
 
-- [nvim-plug](https://github.com/wsdjeg/nvim-plug): asynchronous Neovim plugin manager
-- [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim): search text in neovim floating window asynchronously
-- [format.nvim](https://github.com/wsdjeg/format.nvim): asynchronous code formatting plugin
-- [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim): simple bookmarks manager for neovim
-- [statusline.nvim](https://github.com/wsdjeg/statusline.nvim): module statusline plugin for neovim
-- [job.nvim](https://github.com/wsdjeg/job.nvim): async job control api for neovim
-- [rooter.nvim](https://github.com/wsdjeg/rooter.nvim): cd project root automatically
-- [git.nvim](https://github.com/wsdjeg/git.nvim): use git command in neovim
-- [ctags.nvim](https://github.com/wsdjeg/ctags.nvim): ctags integration for neovim
-- [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim): Async Code Runner for Neovim
-- [music-player.nvim](https://github.com/wsdjeg/music-player.nvim): music player for neovim
-- [mru.nvim](https://github.com/wsdjeg/mru.nvim): MRU(Most Recently Used) Files for Neovim
-- [scrollbar.nvim](https://github.com/wsdjeg/scrollbar.nvim): scrollbar for neovim
-- [record-key.nvim](https://github.com/wsdjeg/record-key.nvim): Recording keyboard keys in Neovim
-- [zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim): a Zettelkasten note taking plugin
-- [terminal.nvim](https://github.com/wsdjeg/terminal.nvim): simple floating terminal plugin for Neovim
-- [logger.nvim](https://github.com/wsdjeg/logger.nvim): neovim runtime logger
-- [record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim): Neovim screen recording plugin
-- [tasks.nvim](https://github.com/wsdjeg/tasks.nvim): tasks manager for neovim
-- [gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim): Goto/Copy File's Online Link
-- [tabline.nvim](https://github.com/wsdjeg/tabline.nvim): simple tabline plugin for Neovim
-- [iedit.nvim](https://github.com/wsdjeg/iedit.nvim): iedit mode for neovim
-- [notify.nvim](https://github.com/wsdjeg/notify.nvim): notification framework plugin for neovim
-- [git.vim](https://github.com/wsdjeg/git.vim): Use git in spacevim
-- [repl.nvim](https://github.com/wsdjeg/repl.nvim): repl for neovim
-- [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim): Color Converter for neovim
-- [todo.nvim](https://github.com/wsdjeg/todo.nvim):todo manager plugin for Neovim
-- [vim-chat](https://github.com/wsdjeg/vim-chat): Chatting client for neovim/vim8
-- [ctrlg.nvim](https://github.com/wsdjeg/ctrlg.nvim): More beautiful ctrl-g output
-- [ChineseLinter.vim](https://github.com/wsdjeg/ChineseLinter.vim): 中文文档语言规范检查工具
-- [winbar.nvim](https://github.com/wsdjeg/winbar.nvim): winbar for neovim
-- [dashboard-nvim](https://github.com/wsdjeg/dashboard-nvim): forked dashboard for neovim
-- [SpaceVim](https://github.com/wsdjeg/SpaceVim): A modular configuration of Vim and Neovim
-- [dein-ui.vim](https://github.com/wsdjeg/dein-ui.vim): UI for Shougo's dein.vim
-- [FlyGrep.vim](https://github.com/wsdjeg/FlyGrep.vim): Asynchronously fly grep in vim
-- [.SpaceVim.d](https://github.com/wsdjeg/.SpaceVim.d): spacevim dotfiles
-- [vim-todo](https://github.com/wsdjeg/vim-todo): Better TODO manager plugin for neovim/vim
-- [quickfix.nvim](https://github.com/wsdjeg/quickfix.nvim): general key bindings for quickfix window
-- [vim-async-dict](https://github.com/wsdjeg/vim-async-dict): 字典补全命令行工具
-- [gtags.vim](https://github.com/wsdjeg/gtags.vim): gtags integration for neovim
-- [SourceCounter.vim](https://github.com/wsdjeg/SourceCounter.vim): source counter in vim
-- [vim-fetch](https://github.com/wsdjeg/vim-fetch): Fetch that line and column, boy!
-- [gfr.vim](https://github.com/wsdjeg/gfr.vim): grep & filter & replace in vim/neovim
-- [JavaUnit.vim](https://github.com/wsdjeg/JavaUnit.vim): java unit test
-- [GitHub.vim](https://github.com/wsdjeg/GitHub.vim): Another github v3 api implemented in vim script
-- [xmake.vim](https://github.com/wsdjeg/xmake.vim): xmake integration for vim
-- [vim-cheat](https://github.com/wsdjeg/vim-cheat): View cheatsheets via vim
-- [vim-pact](https://github.com/wsdjeg/vim-pact): pact language support for vim
-- [vim-markdown](https://github.com/wsdjeg/vim-markdown): markdown mode for SpaceVim
-- [vim-autohotkey](https://github.com/wsdjeg/vim-autohotkey): autohotkey support for vim/neovim
+- [nvim-plug](https://github.com/wsdjeg/nvim-plug) - asynchronous Neovim plugin manager
+- [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim) - search text in neovim floating window asynchronously
+- [format.nvim](https://github.com/wsdjeg/format.nvim) - asynchronous code formatting plugin
+- [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) - simple bookmarks manager for neovim
+- [statusline.nvim](https://github.com/wsdjeg/statusline.nvim) - module statusline plugin for neovim
+- [job.nvim](https://github.com/wsdjeg/job.nvim) - async job control api for neovim
+- [rooter.nvim](https://github.com/wsdjeg/rooter.nvim) - cd project root automatically
+- [git.nvim](https://github.com/wsdjeg/git.nvim) - use git command in neovim
+- [ctags.nvim](https://github.com/wsdjeg/ctags.nvim) - ctags integration for neovim
+- [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) - Async Code Runner for Neovim
+- [music-player.nvim](https://github.com/wsdjeg/music-player.nvim) - music player for neovim
+- [mru.nvim](https://github.com/wsdjeg/mru.nvim) - MRU(Most Recently Used) Files for Neovim
+- [scrollbar.nvim](https://github.com/wsdjeg/scrollbar.nvim) - scrollbar for neovim
+- [record-key.nvim](https://github.com/wsdjeg/record-key.nvim) - Recording keyboard keys in Neovim
+- [zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim) - a Zettelkasten note taking plugin
+- [terminal.nvim](https://github.com/wsdjeg/terminal.nvim) - simple floating terminal plugin for Neovim
+- [logger.nvim](https://github.com/wsdjeg/logger.nvim) - neovim runtime logger
+- [record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim) - Neovim screen recording plugin
+- [tasks.nvim](https://github.com/wsdjeg/tasks.nvim) - tasks manager for neovim
+- [gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim) - Goto/Copy File's Online Link
+- [tabline.nvim](https://github.com/wsdjeg/tabline.nvim) - simple tabline plugin for Neovim
+- [iedit.nvim](https://github.com/wsdjeg/iedit.nvim) - iedit mode for neovim
+- [notify.nvim](https://github.com/wsdjeg/notify.nvim) - notification framework plugin for neovim
+- [git.vim](https://github.com/wsdjeg/git.vim) - Use git in spacevim
+- [repl.nvim](https://github.com/wsdjeg/repl.nvim) - repl for neovim
+- [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim) - Color Converter for neovim
+- [todo.nvim](https://github.com/wsdjeg/todo.nvim) - todo manager plugin for Neovim
+- [vim-chat](https://github.com/wsdjeg/vim-chat) - Chatting client for neovim/vim8
+- [ctrlg.nvim](https://github.com/wsdjeg/ctrlg.nvim) - More beautiful ctrl-g output
+- [ChineseLinter.vim](https://github.com/wsdjeg/ChineseLinter.vim) - 中文文档语言规范检查工具
+- [winbar.nvim](https://github.com/wsdjeg/winbar.nvim) - winbar for neovim
+- [dashboard-nvim](https://github.com/wsdjeg/dashboard-nvim) - forked dashboard for neovim
+- [SpaceVim](https://github.com/wsdjeg/SpaceVim) - A modular configuration of Vim and Neovim
+- [dein-ui.vim](https://github.com/wsdjeg/dein-ui.vim) - UI for Shougo's dein.vim
+- [FlyGrep.vim](https://github.com/wsdjeg/FlyGrep.vim) - Asynchronously fly grep in vim
+- [.SpaceVim.d](https://github.com/wsdjeg/.SpaceVim.d) - spacevim dotfiles
+- [vim-todo](https://github.com/wsdjeg/vim-todo) - Better TODO manager plugin for neovim/vim
+- [quickfix.nvim](https://github.com/wsdjeg/quickfix.nvim) - general key bindings for quickfix window
+- [vim-async-dict](https://github.com/wsdjeg/vim-async-dict) - 字典补全命令行工具
+- [gtags.vim](https://github.com/wsdjeg/gtags.vim) - gtags integration for neovim
+- [SourceCounter.vim](https://github.com/wsdjeg/SourceCounter.vim) - source counter in vim
+- [vim-fetch](https://github.com/wsdjeg/vim-fetch) - Fetch that line and column, boy!
+- [gfr.vim](https://github.com/wsdjeg/gfr.vim) - grep & filter & replace in vim/neovim
+- [JavaUnit.vim](https://github.com/wsdjeg/JavaUnit.vim) - java unit test
+- [GitHub.vim](https://github.com/wsdjeg/GitHub.vim) - Another github v3 api implemented in vim script
+- [xmake.vim](https://github.com/wsdjeg/xmake.vim) - xmake integration for vim
+- [vim-cheat](https://github.com/wsdjeg/vim-cheat) - View cheatsheets via vim
+- [vim-pact](https://github.com/wsdjeg/vim-pact) - pact language support for vim
+- [vim-markdown](https://github.com/wsdjeg/vim-markdown) - markdown mode for SpaceVim
+- [vim-autohotkey](https://github.com/wsdjeg/vim-autohotkey) - autohotkey support for vim/neovim
 
 ## Recent Posts
 
