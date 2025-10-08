@@ -12,6 +12,7 @@
 ## Current Projects
 
 - [nvim-plug](https://github.com/wsdjeg/nvim-plug) - asynchronous Neovim plugin manager
+- [picker.nvim](https://github.com/wsdjeg/picker.nvim) - fuzzy finder plugin for neovim
 - [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim) - search text in neovim floating window asynchronously
 - [format.nvim](https://github.com/wsdjeg/format.nvim) - asynchronous code formatting plugin
 - [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) - simple bookmarks manager for neovim
