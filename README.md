@@ -16,7 +16,7 @@
 - [高效处理 Markdown 中的代码块](https://wsdjeg.net/code-block-in-markdown/)
 - [为什么停止维护 SpaceVim](https://wsdjeg.net/why-spacevim-is-archived/)
 - [解决 Windows 系统下输入法问题](https://wsdjeg.net/neovim-im-select-in-windows/)
-- [Neovim 近期文件浏览历史记录](https://wsdjeg.net/neovim-most-recently-used-files/)
+- [Neovim 历史使用文件插件 mru.nvim](https://wsdjeg.net/neovim-most-recently-used-files/)
 - [Neovim 录制按键及屏幕](https://wsdjeg.net/neovim-record-key-and-screen/)
 - [Neovim 自动切换至项目根目录](https://wsdjeg.net/neovim-project-root-manager/)
 - [Neovim 日志插件 logger.nvim](https://wsdjeg.net/neovim-logger/)
