@@ -9,6 +9,7 @@
 ## Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovim 窗口 API 参数 noautocmd 测试](https://wsdjeg.net/neovim-nvim-win-noautocmd/)
 - [Neovim 模糊搜索插件 picker.nvim](https://wsdjeg.net/neovim-fuzzy-finder-picker-nvim/)
 - [Github 仓库自动 release](https://wsdjeg.net/release-please-action/)
 - [为什么有那么多人讨厌清朝？](https://wsdjeg.net/20250903/)
@@ -23,7 +24,6 @@
 - [Neovim 任务管理插件 tasks.nvim](https://wsdjeg.net/tasks-manager-for-neovim/)
 - [Neovim 代码执行插件 code-runner.nvim](https://wsdjeg.net/neovim-code-runner/)
 - [Neovim 插件管理器 nvim-plug](https://wsdjeg.net/neovim-plugin-manager-nvim-plug/)
-- [从 VimScipt 切换至 Lua](https://wsdjeg.net/from-vimscript-to-lua/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- wsdjeg repos end -->
