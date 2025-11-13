@@ -1,12 +1,19 @@
-<h3 align="center">👋 Hello! I'm Eric Wong.</h3>
+### Hey 👋, I'm Eric Wong
 
-<p align="center">
-<a href="https://github.com/wsdjeg">
-<img src="https://github-readme-stats.vercel.app/api?username=wsdjeg&show_icons=true">
-</a>
-</p>
+[![Github](https://img.shields.io/github/followers/wsdjeg?label=Follow&style=social)](https://github.com/wsdjeg)
 
-## Recent Posts
+I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua.org/).
+
+<a href='https://ko-fi.com/A538L6H' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+Here is a list of My Neovim plugins:
+
+- [nvim-plug](https://github.com/wsdjeg/nvim-plug) - neovim plugin manager
+- [picker.nvim](https://github.com/wsdjeg/picker.nvim) - neovim fuzzy finder
+
+[![](https://github-readme-stats.vercel.app/api?username=wsdjeg&show_icons=true)](https://github.com/wsdjeg)
+
+### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Neovim 窗口 API 参数 noautocmd 测试](https://wsdjeg.net/neovim-nvim-win-noautocmd/)
