@@ -14,10 +14,10 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 
 - [ChineseLinter.vim](https://github.com/wsdjeg/ChineseLinter.vim) - Chinese Document Language Standards Checking Tool
 - [SpaceVim](https://github.com/wsdjeg/SpaceVim)
-- [altf.nvim](https://github.com/wsdjeg/altf.nvim)
-- [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim)
+- [altf.nvim](https://github.com/wsdjeg/altf.nvim) - alternate files manager
+- [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) - bookmarks manager for neovim
 - [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) - async code runner for neovim
-- [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim)
+- [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim) - a lightweight color palette for Neovim
 - [ctags.nvim](https://github.com/wsdjeg/ctags.nvim) - ctags integration in neovim
 - [ctrlg.nvim](https://github.com/wsdjeg/ctrlg.nvim) - better ctrl-g info
 - [dashboard-nvim](https://github.com/wsdjeg/dashboard-nvim) - forked dashboard plug
@@ -28,13 +28,14 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 - [gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim)
 - [hop.nvim](https://github.com/wsdjeg/hop.nvim) - forked hop
 - [iedit.nvim](https://github.com/wsdjeg/iedit.nvim) - iedit mode for neovim
-- [job.nvim](https://github.com/wsdjeg/job.nvim)
+- [job.nvim](https://github.com/wsdjeg/job.nvim) - neovim job api
 - [keymap-guide.nvim](https://github.com/wsdjeg/keymap-guide.nvim)
 - [logger.nvim](https://github.com/wsdjeg/logger.nvim)
 - [mru.nvim](https://github.com/wsdjeg/mru.nvim) - mru(most recently used) files
-- [music-player.nvim](https://github.com/wsdjeg/music-player.nvim)
+- [music-player.nvim](https://github.com/wsdjeg/music-player.nvim) - neovim music player
 - [notify.nvim](https://github.com/wsdjeg/notify.nvim)
-- [nvim-plug](https://github.com/wsdjeg/nvim-plug)
+- [nvim-cmp](https://github.com/wsdjeg/nvim-cmp)
+- [nvim-plug](https://github.com/wsdjeg/nvim-plug) - neovim plugin manager
 - [picker.nvim](https://github.com/wsdjeg/picker.nvim)
 - [plugin-utils.nvim](https://github.com/wsdjeg/plugin-utils.nvim)
 - [record-key.nvim](https://github.com/wsdjeg/record-key.nvim) - key binding recording tool
@@ -55,6 +56,7 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Neovim 窗口 API 参数 noautocmd 测试](https://wsdjeg.net/neovim-nvim-win-noautocmd/)
 - [Neovim 模糊搜索插件 picker.nvim](https://wsdjeg.net/neovim-fuzzy-finder-picker-nvim/)
 - [Github 仓库自动 release](https://wsdjeg.net/release-please-action/)
