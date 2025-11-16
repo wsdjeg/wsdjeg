@@ -12,11 +12,11 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 
 <!-- nvim-plugins start -->
 
-- [ChineseLinter.vim](https://github.com/wsdjeg/ChineseLinter.vim)
+- [ChineseLinter.vim](https://github.com/wsdjeg/ChineseLinter.vim) - Chinese Document Language Standards Checking Tool
 - [SpaceVim](https://github.com/wsdjeg/SpaceVim)
 - [altf.nvim](https://github.com/wsdjeg/altf.nvim)
 - [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim)
-- [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim)
+- [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) - async code runner for neovim
 - [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim)
 - [ctags.nvim](https://github.com/wsdjeg/ctags.nvim) - ctags integration in neovim
 - [ctrlg.nvim](https://github.com/wsdjeg/ctrlg.nvim) - better ctrl-g info
@@ -26,8 +26,8 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 - [git.nvim](https://github.com/wsdjeg/git.nvim) - git integration in neovim
 - [github.nvim](https://github.com/wsdjeg/github.nvim)
 - [gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim)
-- [hop.nvim](https://github.com/wsdjeg/hop.nvim)
-- [iedit.nvim](https://github.com/wsdjeg/iedit.nvim)
+- [hop.nvim](https://github.com/wsdjeg/hop.nvim) - forked hop
+- [iedit.nvim](https://github.com/wsdjeg/iedit.nvim) - iedit mode for neovim
 - [job.nvim](https://github.com/wsdjeg/job.nvim)
 - [keymap-guide.nvim](https://github.com/wsdjeg/keymap-guide.nvim)
 - [logger.nvim](https://github.com/wsdjeg/logger.nvim)
@@ -37,16 +37,16 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 - [nvim-plug](https://github.com/wsdjeg/nvim-plug)
 - [picker.nvim](https://github.com/wsdjeg/picker.nvim)
 - [plugin-utils.nvim](https://github.com/wsdjeg/plugin-utils.nvim)
-- [record-key.nvim](https://github.com/wsdjeg/record-key.nvim)
+- [record-key.nvim](https://github.com/wsdjeg/record-key.nvim) - key binding recording tool
 - [record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim) - screen recording
 - [repl.nvim](https://github.com/wsdjeg/repl.nvim)
 - [rooter.nvim](https://github.com/wsdjeg/rooter.nvim)
 - [scrollbar.nvim](https://github.com/wsdjeg/scrollbar.nvim) - floating scrollbar
 - [statusline.nvim](https://github.com/wsdjeg/statusline.nvim) - module statusline
 - [tabline.nvim](https://github.com/wsdjeg/tabline.nvim)
-- [tasks.nvim](https://github.com/wsdjeg/tasks.nvim) - tasks manager
+- [tasks.nvim](https://github.com/wsdjeg/tasks.nvim) - tasks manager inspired from vscode
 - [terminal.nvim](https://github.com/wsdjeg/terminal.nvim)
-- [todo.nvim](https://github.com/wsdjeg/todo.nvim)
+- [todo.nvim](https://github.com/wsdjeg/todo.nvim) - project todo manager
 - [toml.nvim](https://github.com/wsdjeg/toml.nvim) - toml file parser
 - [vim-chat](https://github.com/wsdjeg/vim-chat) - (Neo)vim chat client
 - [zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim)
