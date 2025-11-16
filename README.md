@@ -10,42 +10,52 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 
 ### Neovim plugins
 
-- [altf.nvim](https://github.com/wsdjeg/altf.nvim) - alternate file manager
-- [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) - bookmarks manager
-- [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) - code runner
-- [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim) - color palette
+<!-- nvim-plugins start -->
+
+- [ChineseLinter.vim](https://github.com/wsdjeg/ChineseLinter.vim)
+- [SpaceVim](https://github.com/wsdjeg/SpaceVim)
+- [altf.nvim](https://github.com/wsdjeg/altf.nvim)
+- [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim)
+- [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim)
+- [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim)
 - [ctags.nvim](https://github.com/wsdjeg/ctags.nvim) - ctags integration in neovim
 - [ctrlg.nvim](https://github.com/wsdjeg/ctrlg.nvim) - better ctrl-g info
+- [dashboard-nvim](https://github.com/wsdjeg/dashboard-nvim) - forked dashboard plug
 - [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim) - grep on the fly
-- [format.nvim](https://github.com/wsdjeg/format.nvim) - code formatter
+- [format.nvim](https://github.com/wsdjeg/format.nvim)
 - [git.nvim](https://github.com/wsdjeg/git.nvim) - git integration in neovim
-- [github.nvim](https://github.com/wsdjeg/github.nvim) - github api
-- [gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim) - copy or jump to github link
-- [iedit.nvim](https://github.com/wsdjeg/iedit.nvim) - iedit mode
-- [job.nvim](https://github.com/wsdjeg/job.nvim) - job api
-- [logger.nvim](https://github.com/wsdjeg/logger.nvim) - runtime logger
+- [github.nvim](https://github.com/wsdjeg/github.nvim)
+- [gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim)
+- [hop.nvim](https://github.com/wsdjeg/hop.nvim)
+- [iedit.nvim](https://github.com/wsdjeg/iedit.nvim)
+- [job.nvim](https://github.com/wsdjeg/job.nvim)
+- [keymap-guide.nvim](https://github.com/wsdjeg/keymap-guide.nvim)
+- [logger.nvim](https://github.com/wsdjeg/logger.nvim)
 - [mru.nvim](https://github.com/wsdjeg/mru.nvim) - mru(most recently used) files
-- [music-player.nvim](https://github.com/wsdjeg/music-player.nvim) - music player
-- [notify.nvim](https://github.com/wsdjeg/notify.nvim) - notification manager
-- [nvim-plug](https://github.com/wsdjeg/nvim-plug) - plugin manager
-- [picker.nvim](https://github.com/wsdjeg/picker.nvim) - fuzzy finder
-- [record-key.nvim](https://github.com/wsdjeg/record-key.nvim) - recording key binding
+- [music-player.nvim](https://github.com/wsdjeg/music-player.nvim)
+- [notify.nvim](https://github.com/wsdjeg/notify.nvim)
+- [nvim-plug](https://github.com/wsdjeg/nvim-plug)
+- [picker.nvim](https://github.com/wsdjeg/picker.nvim)
+- [plugin-utils.nvim](https://github.com/wsdjeg/plugin-utils.nvim)
+- [record-key.nvim](https://github.com/wsdjeg/record-key.nvim)
 - [record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim) - screen recording
-- [repl.nvim](https://github.com/wsdjeg/repl.nvim) - repl support
-- [rooter.nvim](https://github.com/wsdjeg/rooter.nvim) - cd project root
+- [repl.nvim](https://github.com/wsdjeg/repl.nvim)
+- [rooter.nvim](https://github.com/wsdjeg/rooter.nvim)
 - [scrollbar.nvim](https://github.com/wsdjeg/scrollbar.nvim) - floating scrollbar
 - [statusline.nvim](https://github.com/wsdjeg/statusline.nvim) - module statusline
-- [tabline.nvim](https://github.com/wsdjeg/tabline.nvim) - tabline
+- [tabline.nvim](https://github.com/wsdjeg/tabline.nvim)
 - [tasks.nvim](https://github.com/wsdjeg/tasks.nvim) - tasks manager
-- [terminal.nvim](https://github.com/wsdjeg/terminal.nvim) - floating terminal
-- [todo.nvim](https://github.com/wsdjeg/todo.nvim) - todo manager
+- [terminal.nvim](https://github.com/wsdjeg/terminal.nvim)
+- [todo.nvim](https://github.com/wsdjeg/todo.nvim)
 - [toml.nvim](https://github.com/wsdjeg/toml.nvim) - toml file parser
 - [vim-chat](https://github.com/wsdjeg/vim-chat) - (Neo)vim chat client
-- [zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim) - zettelkasten note plugin
+- [zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim)
+<!-- nvim-plugins end -->
 
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Neovim 窗口 API 参数 noautocmd 测试](https://wsdjeg.net/neovim-nvim-win-noautocmd/)
 - [Neovim 模糊搜索插件 picker.nvim](https://wsdjeg.net/neovim-fuzzy-finder-picker-nvim/)
 - [Github 仓库自动 release](https://wsdjeg.net/release-please-action/)
@@ -62,5 +72,3 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 - [Neovim 代码执行插件 code-runner.nvim](https://wsdjeg.net/neovim-code-runner/)
 - [Neovim 插件管理器 nvim-plug](https://wsdjeg.net/neovim-plugin-manager-nvim-plug/)
 <!-- BLOG-POST-LIST:END -->
-
-<!-- wsdjeg repos end -->
