@@ -22,7 +22,7 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 - [ctrlg.nvim](https://github.com/wsdjeg/ctrlg.nvim) - better ctrl-g info
 - [dashboard-nvim](https://github.com/wsdjeg/dashboard-nvim) - forked dashboard plug
 - [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim) - grep on the fly
-- [format.nvim](https://github.com/wsdjeg/format.nvim)
+- [format.nvim](https://github.com/wsdjeg/format.nvim) - asynchronous code formatting plugin for neovim
 - [git.nvim](https://github.com/wsdjeg/git.nvim) - git integration in neovim
 - [github.nvim](https://github.com/wsdjeg/github.nvim)
 - [gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim)
