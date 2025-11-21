@@ -11,8 +11,9 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 ### Neovim plugins
 
 <!-- nvim-plugins start -->
+
 - [ChineseLinter.vim](https://github.com/wsdjeg/ChineseLinter.vim) - Chinese Document Language Standards Checking Tool
-- [SpaceVim](https://github.com/wsdjeg/SpaceVim) - A modular configuration of Vim and Neovim 
+- [SpaceVim](https://github.com/wsdjeg/SpaceVim) - A modular configuration of Vim and Neovim
 - [altf.nvim](https://github.com/wsdjeg/altf.nvim) - alternate files manager
 - [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) - bookmarks manager for neovim
 - [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) - async code runner for neovim
@@ -55,6 +56,7 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Neovim 窗口 API 参数 noautocmd 测试](https://wsdjeg.net/neovim-nvim-win-noautocmd/)
 - [Neovim 模糊搜索插件 picker.nvim](https://wsdjeg.net/neovim-fuzzy-finder-picker-nvim/)
 - [Github 仓库自动 release](https://wsdjeg.net/release-please-action/)
