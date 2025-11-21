@@ -56,7 +56,6 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Neovim 窗口 API 参数 noautocmd 测试](https://wsdjeg.net/neovim-nvim-win-noautocmd/)
 - [Neovim 模糊搜索插件 picker.nvim](https://wsdjeg.net/neovim-fuzzy-finder-picker-nvim/)
 - [Github 仓库自动 release](https://wsdjeg.net/release-please-action/)
