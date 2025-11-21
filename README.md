@@ -11,9 +11,8 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 ### Neovim plugins
 
 <!-- nvim-plugins start -->
-
 - [ChineseLinter.vim](https://github.com/wsdjeg/ChineseLinter.vim) - Chinese Document Language Standards Checking Tool
-- [SpaceVim](https://github.com/wsdjeg/SpaceVim)
+- [SpaceVim](https://github.com/wsdjeg/SpaceVim) - A modular configuration of Vim and Neovim 
 - [altf.nvim](https://github.com/wsdjeg/altf.nvim) - alternate files manager
 - [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) - bookmarks manager for neovim
 - [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) - async code runner for neovim
@@ -24,16 +23,16 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 - [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim) - grep on the fly
 - [format.nvim](https://github.com/wsdjeg/format.nvim) - asynchronous code formatting plugin for neovim
 - [git.nvim](https://github.com/wsdjeg/git.nvim) - git integration in neovim
-- [github.nvim](https://github.com/wsdjeg/github.nvim)
+- [github.nvim](https://github.com/wsdjeg/github.nvim) - github REST api
 - [gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim)
 - [hop.nvim](https://github.com/wsdjeg/hop.nvim) - forked hop
 - [iedit.nvim](https://github.com/wsdjeg/iedit.nvim) - iedit mode for neovim
 - [job.nvim](https://github.com/wsdjeg/job.nvim) - neovim job api
 - [keymap-guide.nvim](https://github.com/wsdjeg/keymap-guide.nvim)
-- [logger.nvim](https://github.com/wsdjeg/logger.nvim)
+- [logger.nvim](https://github.com/wsdjeg/logger.nvim) - neovim runtime logger
 - [mru.nvim](https://github.com/wsdjeg/mru.nvim) - mru(most recently used) files
 - [music-player.nvim](https://github.com/wsdjeg/music-player.nvim) - neovim music player
-- [notify.nvim](https://github.com/wsdjeg/notify.nvim)
+- [notify.nvim](https://github.com/wsdjeg/notify.nvim) - floating notification
 - [nvim-cmp](https://github.com/wsdjeg/nvim-cmp)
 - [nvim-plug](https://github.com/wsdjeg/nvim-plug) - neovim plugin manager
 - [picker.nvim](https://github.com/wsdjeg/picker.nvim)
