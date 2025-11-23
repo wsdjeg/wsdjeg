@@ -36,7 +36,7 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 - [notify.nvim](https://github.com/wsdjeg/notify.nvim) - floating notification
 - [nvim-cmp](https://github.com/wsdjeg/nvim-cmp)
 - [nvim-plug](https://github.com/wsdjeg/nvim-plug) - neovim plugin manager
-- [picker.nvim](https://github.com/wsdjeg/picker.nvim)
+- [picker.nvim](https://github.com/wsdjeg/picker.nvim) - a lightweight, high-performance fuzzy finder for Neovim
 - [plugin-utils.nvim](https://github.com/wsdjeg/plugin-utils.nvim)
 - [record-key.nvim](https://github.com/wsdjeg/record-key.nvim) - key binding recording tool
 - [record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim) - screen recording
