@@ -30,9 +30,9 @@ local function generate_content()
 		local v = plugs[name]
 		if vim.startswith(v[1], "wsdjeg") then
 			if v.desc then
-				table.insert(lines, "- [" .. v.name .. "](" .. v.url .. ") - " .. v.desc)
+				table.insert(lines, "- [" .. v.name .. "](" .. v.url .. ") " .. "[![luarocks](https://img.shields.io/luarocks/v/wsdjeg/" .. v.name .. ")](https://luarocks.org/modules/wsdjeg/" .. v.name .. ")".. " - " .. v.desc)
 			else
-				table.insert(lines, "- [" .. v.name .. "](" .. v.url .. ")")
+				table.insert(lines, "- [" .. v.name .. "](" .. v.url .. ") [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/" .. v.name .. ")](https://luarocks.org/modules/wsdjeg/" .. v.name .. ")")
 			end
 		end
 	end
