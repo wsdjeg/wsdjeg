@@ -22,18 +22,34 @@ function M.update(...)
 end
 
 local function generate_content()
-	local lines = {}
+	local lines = { "| name | release | luarocks | description |", "| --- | --- | --- | --- |" }
 	local plugs = require("plug").get()
 	local names = vim.tbl_keys(plugs)
 	table.sort(names)
 	for _, name in ipairs(names) do
 		local v = plugs[name]
 		if vim.startswith(v[1], "wsdjeg") then
-			if v.desc then
-				table.insert(lines, "- [" .. v.name .. "](" .. v.url .. ") " .. "[![luarocks](https://img.shields.io/luarocks/v/wsdjeg/" .. v.name .. ")](https://luarocks.org/modules/wsdjeg/" .. v.name .. ")".. " - " .. v.desc)
-			else
-				table.insert(lines, "- [" .. v.name .. "](" .. v.url .. ") [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/" .. v.name .. ")](https://luarocks.org/modules/wsdjeg/" .. v.name .. ")")
-			end
+			table.insert(
+				lines,
+				"["
+					.. v.name
+					.. "]("
+					.. v.url
+					.. ") | "
+					.. "[![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/"
+					.. v.name
+					.. ")](https://github.com/wsdjeg/"
+					.. v.name
+					.. "/releases)"
+					.. " | "
+					.. "[![luarocks](https://img.shields.io/luarocks/v/wsdjeg/"
+					.. v.name
+					.. ")](https://luarocks.org/modules/wsdjeg/"
+					.. v.name
+					.. ")"
+					.. " | "
+					.. (v.desc or "")
+			)
 		end
 	end
 	return lines
