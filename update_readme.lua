@@ -28,7 +28,7 @@ local function generate_content()
 	table.sort(names)
 	for _, name in ipairs(names) do
 		local v = plugs[name]
-		if vim.startswith(v[1], "wsdjeg") then
+		if vim.startswith(v[1], "wsdjeg") and vim.regex('nvim'):match_str(v[1]) then
 			table.insert(
 				lines,
 				"["
