@@ -55,6 +55,7 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovim 中使用 luarocks](https://wsdjeg.net/using-luarocks-in-neovim/)
 - [Neovim 窗口 API 参数 noautocmd 测试](https://wsdjeg.net/neovim-nvim-win-noautocmd/)
 - [Neovim 模糊搜索插件 picker.nvim](https://wsdjeg.net/neovim-fuzzy-finder-picker-nvim/)
 - [Github 仓库自动 release](https://wsdjeg.net/release-please-action/)
@@ -69,5 +70,4 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 - [Neovim 日志插件 logger.nvim](https://wsdjeg.net/neovim-logger/)
 - [Neovim 任务管理插件 tasks.nvim](https://wsdjeg.net/tasks-manager-for-neovim/)
 - [Neovim 代码执行插件 code-runner.nvim](https://wsdjeg.net/neovim-code-runner/)
-- [Neovim 插件管理器 nvim-plug](https://wsdjeg.net/neovim-plugin-manager-nvim-plug/)
 <!-- BLOG-POST-LIST:END -->
