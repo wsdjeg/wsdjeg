@@ -33,8 +33,8 @@ local function generate_content()
 				lines,
 				"["
 					.. v.name
-					.. "]("
-					.. v.url
+					.. "](https://github.com/"
+					.. v[1]
 					.. ") | "
 					.. "[![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/"
 					.. v.name
