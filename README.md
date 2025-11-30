@@ -56,7 +56,6 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [发现 Git 仓库中幽灵文件](https://wsdjeg.net/find-ghosts-file-in-git-repository/)
 - [Neovim 中使用 luarocks](https://wsdjeg.net/using-luarocks-in-neovim/)
 - [Neovim 窗口 API 参数 noautocmd 测试](https://wsdjeg.net/neovim-nvim-win-noautocmd/)
