@@ -10,6 +10,9 @@ I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua
 
 ### Neovim plugins
 
+These are the Neovim plugins I build and maintain regularly.  
+Feel free to try them out, and you're welcome to open issues or send feedback.
+
 <!-- nvim-plugins start -->
 
 | name                                                               | release                                                                                                                                       | luarocks                                                                                                                           | description                                             |
