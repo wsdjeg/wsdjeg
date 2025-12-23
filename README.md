@@ -62,6 +62,7 @@ Feel free to try them out, and you're welcome to open issues or send feedback.
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [如何正确地使用 ftplugin 目录](https://wsdjeg.net/how-to-use-ftplugin-directory/)
 - [本地化管理 Github secrets](https://wsdjeg.net/local-github-secrets/)
 - [发现 Git 仓库中幽灵文件](https://wsdjeg.net/find-ghosts-file-in-git-repository/)
 - [Neovim 中使用 luarocks](https://wsdjeg.net/using-luarocks-in-neovim/)
@@ -76,5 +77,4 @@ Feel free to try them out, and you're welcome to open issues or send feedback.
 - [Neovim 历史使用文件插件 mru.nvim](https://wsdjeg.net/neovim-most-recently-used-files/)
 - [Neovim 录制按键及屏幕](https://wsdjeg.net/neovim-record-key-and-screen/)
 - [Neovim 自动切换至项目根目录](https://wsdjeg.net/neovim-project-root-manager/)
-- [Neovim 日志插件 logger.nvim](https://wsdjeg.net/neovim-logger/)
 <!-- BLOG-POST-LIST:END -->
