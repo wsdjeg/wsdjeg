@@ -62,6 +62,7 @@ Feel free to try them out, and you're welcome to open issues or send feedback.
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovim 悬浮滚动条 scrollbar.nvim](https://wsdjeg.net/floating-scrollbar-for-neovim/)
 - [如何正确地使用 ftplugin 目录](https://wsdjeg.net/how-to-use-ftplugin-directory/)
 - [本地化管理 Github secrets](https://wsdjeg.net/local-github-secrets/)
 - [发现 Git 仓库中幽灵文件](https://wsdjeg.net/find-ghosts-file-in-git-repository/)
@@ -76,5 +77,4 @@ Feel free to try them out, and you're welcome to open issues or send feedback.
 - [解决 Windows 系统下输入法问题](https://wsdjeg.net/neovim-im-select-in-windows/)
 - [Neovim 历史使用文件插件 mru.nvim](https://wsdjeg.net/neovim-most-recently-used-files/)
 - [Neovim 录制按键及屏幕](https://wsdjeg.net/neovim-record-key-and-screen/)
-- [Neovim 自动切换至项目根目录](https://wsdjeg.net/neovim-project-root-manager/)
 <!-- BLOG-POST-LIST:END -->
