@@ -62,6 +62,7 @@ Feel free to try them out, and you're welcome to open issues or send feedback.
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovim 日历插件 calendar.nvim](https://wsdjeg.net/neovim-minimal-calendar/)
 - [文件路径大小写敏感导致 Lua 模块重载](https://wsdjeg.net/lua-module-reload-path-case-sensitivity/)
 - [Neovim 悬浮滚动条 scrollbar.nvim](https://wsdjeg.net/floating-scrollbar-for-neovim/)
 - [如何正确地使用 ftplugin 目录](https://wsdjeg.net/how-to-use-ftplugin-directory/)
@@ -76,5 +77,4 @@ Feel free to try them out, and you're welcome to open issues or send feedback.
 - [高效处理 Markdown 中的代码块](https://wsdjeg.net/code-block-in-markdown/)
 - [为什么停止维护 SpaceVim](https://wsdjeg.net/why-spacevim-is-archived/)
 - [解决 Windows 系统下输入法问题](https://wsdjeg.net/neovim-im-select-in-windows/)
-- [Neovim 历史使用文件插件 mru.nvim](https://wsdjeg.net/neovim-most-recently-used-files/)
 <!-- BLOG-POST-LIST:END -->
