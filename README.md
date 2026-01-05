@@ -70,7 +70,6 @@ Feel free to try them out, and you're welcome to open issues or send feedback.
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Neovim 日历插件 calendar.nvim](https://wsdjeg.net/neovim-minimal-calendar/)
 - [文件路径大小写敏感导致 Lua 模块重载](https://wsdjeg.net/lua-module-reload-path-case-sensitivity/)
 - [Neovim 悬浮滚动条 scrollbar.nvim](https://wsdjeg.net/floating-scrollbar-for-neovim/)
