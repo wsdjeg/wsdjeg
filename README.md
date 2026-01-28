@@ -70,6 +70,7 @@ Feel free to try them out, and you're welcome to open issues or send feedback.
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovim buffer 删除插件 bufdel.nvim](https://wsdjeg.net/bufdel-without-changing-window-layout/)
 - [Neovim 日历插件 calendar.nvim](https://wsdjeg.net/neovim-minimal-calendar/)
 - [文件路径大小写敏感导致 Lua 模块重载](https://wsdjeg.net/lua-module-reload-path-case-sensitivity/)
 - [Neovim 悬浮滚动条 scrollbar.nvim](https://wsdjeg.net/floating-scrollbar-for-neovim/)
@@ -84,5 +85,4 @@ Feel free to try them out, and you're welcome to open issues or send feedback.
 - [Lua 可变参数](https://wsdjeg.net/lua-function-argvs/)
 - [高效处理 Markdown 中的代码块](https://wsdjeg.net/code-block-in-markdown/)
 - [为什么停止维护 SpaceVim](https://wsdjeg.net/why-spacevim-is-archived/)
-- [解决 Windows 系统下输入法问题](https://wsdjeg.net/neovim-im-select-in-windows/)
 <!-- BLOG-POST-LIST:END -->
