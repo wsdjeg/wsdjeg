@@ -1,76 +1,65 @@
 ### Hey 👋, I'm Eric Wong
 
-[![Github](https://img.shields.io/github/followers/wsdjeg?label=Follow&style=social)](https://github.com/wsdjeg)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-I ❤ Open Source. I love [Neovim](https://neovim.io/) and [Lua](https://www.lua.org/).
-
-[![](https://github-readme-stats-eight-theta.vercel.app/api?username=wsdjeg&show_icons=true)](https://github.com/wsdjeg)
-
-<a href='https://ko-fi.com/A538L6H' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-### Neovim plugins
+### Current Projects
 
 These are the Neovim plugins I build and maintain regularly.  
 Feel free to try them out, and you're welcome to open issues or send feedback.
 
-<details>
-  <summary>All my neovim plugins</summary>
-
 <!-- nvim-plugins start -->
 
-| name                                                               | release                                                                                                                                       | luarocks                                                                                                                           | description                                             |
-| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [altf.nvim](https://github.com/wsdjeg/altf.nvim)                   | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/altf.nvim)](https://github.com/wsdjeg/altf.nvim/releases)                   | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/altf.nvim)](https://luarocks.org/modules/wsdjeg/altf.nvim)                   | alternate files manager                                 |
-| [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim)         | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/bookmarks.nvim)](https://github.com/wsdjeg/bookmarks.nvim/releases)         | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/bookmarks.nvim)](https://luarocks.org/modules/wsdjeg/bookmarks.nvim)         | bookmarks manager for neovim                            |
-| [bufdel.nvim](https://github.com/wsdjeg/bufdel.nvim)               | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/bufdel.nvim)](https://github.com/wsdjeg/bufdel.nvim/releases)               | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/bufdel.nvim)](https://luarocks.org/modules/wsdjeg/bufdel.nvim)               | delete buffer without changing windows layout           |
-| [calendar.nvim](https://github.com/wsdjeg/calendar.nvim)           | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/calendar.nvim)](https://github.com/wsdjeg/calendar.nvim/releases)           | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/calendar.nvim)](https://luarocks.org/modules/wsdjeg/calendar.nvim)           |
-| [chineselinter.nvim](https://github.com/wsdjeg/chineselinter.nvim) | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/chineselinter.nvim)](https://github.com/wsdjeg/chineselinter.nvim/releases) | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/chineselinter.nvim)](https://luarocks.org/modules/wsdjeg/chineselinter.nvim) | Chinese Document Language Standards Checking Tool       |
-| [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim)     | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/code-runner.nvim)](https://github.com/wsdjeg/code-runner.nvim/releases)     | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/code-runner.nvim)](https://luarocks.org/modules/wsdjeg/code-runner.nvim)     | async code runner for neovim                            |
-| [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim)             | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/cpicker.nvim)](https://github.com/wsdjeg/cpicker.nvim/releases)             | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/cpicker.nvim)](https://luarocks.org/modules/wsdjeg/cpicker.nvim)             | a lightweight color palette for Neovim                  |
-| [ctags.nvim](https://github.com/wsdjeg/ctags.nvim)                 | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/ctags.nvim)](https://github.com/wsdjeg/ctags.nvim/releases)                 | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/ctags.nvim)](https://luarocks.org/modules/wsdjeg/ctags.nvim)                 | ctags integration in neovim                             |
-| [ctrlg.nvim](https://github.com/wsdjeg/ctrlg.nvim)                 | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/ctrlg.nvim)](https://github.com/wsdjeg/ctrlg.nvim/releases)                 | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/ctrlg.nvim)](https://luarocks.org/modules/wsdjeg/ctrlg.nvim)                 | better ctrl-g info                                      |
-| [dashboard-nvim](https://github.com/wsdjeg/dashboard-nvim)         | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/dashboard-nvim)](https://github.com/wsdjeg/dashboard-nvim/releases)         | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/dashboard-nvim)](https://luarocks.org/modules/wsdjeg/dashboard-nvim)         | forked dashboard plug                                   |
-| [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim)             | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/flygrep.nvim)](https://github.com/wsdjeg/flygrep.nvim/releases)             | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/flygrep.nvim)](https://luarocks.org/modules/wsdjeg/flygrep.nvim)             | grep on the fly                                         |
-| [format.nvim](https://github.com/wsdjeg/format.nvim)               | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/format.nvim)](https://github.com/wsdjeg/format.nvim/releases)               | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/format.nvim)](https://luarocks.org/modules/wsdjeg/format.nvim)               | asynchronous code formatting plugin for neovim          |
-| [git.nvim](https://github.com/wsdjeg/git.nvim)                     | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/git.nvim)](https://github.com/wsdjeg/git.nvim/releases)                     | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/git.nvim)](https://luarocks.org/modules/wsdjeg/git.nvim)                     | git integration in neovim                               |
-| [github.nvim](https://github.com/wsdjeg/github.nvim)               | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/github.nvim)](https://github.com/wsdjeg/github.nvim/releases)               | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/github.nvim)](https://luarocks.org/modules/wsdjeg/github.nvim)               | github REST api                                         |
-| [gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim)             | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/gitlink.nvim)](https://github.com/wsdjeg/gitlink.nvim/releases)             | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/gitlink.nvim)](https://luarocks.org/modules/wsdjeg/gitlink.nvim)             | Goto/Copy File's Online Link                            |
-| [gtags.nvim](https://github.com/wsdjeg/gtags.nvim)                 | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/gtags.nvim)](https://github.com/wsdjeg/gtags.nvim/releases)                 | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/gtags.nvim)](https://luarocks.org/modules/wsdjeg/gtags.nvim)                 | integrates gtags with Neovim                            |
-| [hop.nvim](https://github.com/wsdjeg/hop.nvim)                     | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/hop.nvim)](https://github.com/wsdjeg/hop.nvim/releases)                     | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/hop.nvim)](https://luarocks.org/modules/wsdjeg/hop.nvim)                     | forked hop                                              |
-| [iedit.nvim](https://github.com/wsdjeg/iedit.nvim)                 | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/iedit.nvim)](https://github.com/wsdjeg/iedit.nvim/releases)                 | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/iedit.nvim)](https://luarocks.org/modules/wsdjeg/iedit.nvim)                 | iedit mode for neovim                                   |
-| [job.nvim](https://github.com/wsdjeg/job.nvim)                     | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/job.nvim)](https://github.com/wsdjeg/job.nvim/releases)                     | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/job.nvim)](https://luarocks.org/modules/wsdjeg/job.nvim)                     | neovim job api                                          |
-| [keymap-guide.nvim](https://github.com/wsdjeg/keymap-guide.nvim)   | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/keymap-guide.nvim)](https://github.com/wsdjeg/keymap-guide.nvim/releases)   | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/keymap-guide.nvim)](https://luarocks.org/modules/wsdjeg/keymap-guide.nvim)   | floating key binding guide                              |
-| [logevent.nvim](https://github.com/wsdjeg/logevent.nvim)           | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/logevent.nvim)](https://github.com/wsdjeg/logevent.nvim/releases)           | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/logevent.nvim)](https://luarocks.org/modules/wsdjeg/logevent.nvim)           |
-| [logger.nvim](https://github.com/wsdjeg/logger.nvim)               | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/logger.nvim)](https://github.com/wsdjeg/logger.nvim/releases)               | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/logger.nvim)](https://luarocks.org/modules/wsdjeg/logger.nvim)               | neovim runtime logger                                   |
-| [mru.nvim](https://github.com/wsdjeg/mru.nvim)                     | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/mru.nvim)](https://github.com/wsdjeg/mru.nvim/releases)                     | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/mru.nvim)](https://luarocks.org/modules/wsdjeg/mru.nvim)                     | mru(most recently used) files                           |
-| [music-player.nvim](https://github.com/wsdjeg/music-player.nvim)   | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/music-player.nvim)](https://github.com/wsdjeg/music-player.nvim/releases)   | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/music-player.nvim)](https://luarocks.org/modules/wsdjeg/music-player.nvim)   | neovim music player                                     |
-| [notify.nvim](https://github.com/wsdjeg/notify.nvim)               | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/notify.nvim)](https://github.com/wsdjeg/notify.nvim/releases)               | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/notify.nvim)](https://luarocks.org/modules/wsdjeg/notify.nvim)               | floating notification                                   |
-| [nvim-plug](https://github.com/wsdjeg/nvim-plug)                   | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/nvim-plug)](https://github.com/wsdjeg/nvim-plug/releases)                   | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/nvim-plug)](https://luarocks.org/modules/wsdjeg/nvim-plug)                   | neovim plugin manager                                   |
-| [picker.nvim](https://github.com/wsdjeg/picker.nvim)               | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/picker.nvim)](https://github.com/wsdjeg/picker.nvim/releases)               | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/picker.nvim)](https://luarocks.org/modules/wsdjeg/picker.nvim)               | a lightweight, high-performance fuzzy finder for Neovim |
-| [quickfix.nvim](https://github.com/wsdjeg/quickfix.nvim)           | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/quickfix.nvim)](https://github.com/wsdjeg/quickfix.nvim/releases)           | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/quickfix.nvim)](https://luarocks.org/modules/wsdjeg/quickfix.nvim)           |
-| [record-key.nvim](https://github.com/wsdjeg/record-key.nvim)       | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/record-key.nvim)](https://github.com/wsdjeg/record-key.nvim/releases)       | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/record-key.nvim)](https://luarocks.org/modules/wsdjeg/record-key.nvim)       | key binding recording tool                              |
-| [record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim) | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/record-screen.nvim)](https://github.com/wsdjeg/record-screen.nvim/releases) | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/record-screen.nvim)](https://luarocks.org/modules/wsdjeg/record-screen.nvim) | screen recording                                        |
-| [repl.nvim](https://github.com/wsdjeg/repl.nvim)                   | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/repl.nvim)](https://github.com/wsdjeg/repl.nvim/releases)                   | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/repl.nvim)](https://luarocks.org/modules/wsdjeg/repl.nvim)                   | repl support for neovim                                 |
-| [rooter.nvim](https://github.com/wsdjeg/rooter.nvim)               | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/rooter.nvim)](https://github.com/wsdjeg/rooter.nvim/releases)               | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/rooter.nvim)](https://luarocks.org/modules/wsdjeg/rooter.nvim)               | Changes Neovim working directory to project root.       |
-| [scratch.nvim](https://github.com/wsdjeg/scratch.nvim)             | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/scratch.nvim)](https://github.com/wsdjeg/scratch.nvim/releases)             | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/scratch.nvim)](https://luarocks.org/modules/wsdjeg/scratch.nvim)             |
-| [scrollbar.nvim](https://github.com/wsdjeg/scrollbar.nvim)         | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/scrollbar.nvim)](https://github.com/wsdjeg/scrollbar.nvim/releases)         | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/scrollbar.nvim)](https://luarocks.org/modules/wsdjeg/scrollbar.nvim)         | floating scrollbar                                      |
-| [smart-ime.nvim](https://github.com/wsdjeg/smart-ime.nvim)         | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/smart-ime.nvim)](https://github.com/wsdjeg/smart-ime.nvim/releases)         | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/smart-ime.nvim)](https://luarocks.org/modules/wsdjeg/smart-ime.nvim)         |
-| [statusline.nvim](https://github.com/wsdjeg/statusline.nvim)       | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/statusline.nvim)](https://github.com/wsdjeg/statusline.nvim/releases)       | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/statusline.nvim)](https://luarocks.org/modules/wsdjeg/statusline.nvim)       | module statusline                                       |
-| [tabline.nvim](https://github.com/wsdjeg/tabline.nvim)             | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/tabline.nvim)](https://github.com/wsdjeg/tabline.nvim/releases)             | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/tabline.nvim)](https://luarocks.org/modules/wsdjeg/tabline.nvim)             | simple tabline plugin for Neovim                        |
-| [tasks.nvim](https://github.com/wsdjeg/tasks.nvim)                 | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/tasks.nvim)](https://github.com/wsdjeg/tasks.nvim/releases)                 | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/tasks.nvim)](https://luarocks.org/modules/wsdjeg/tasks.nvim)                 | tasks manager inspired from vscode                      |
-| [terminal.nvim](https://github.com/wsdjeg/terminal.nvim)           | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/terminal.nvim)](https://github.com/wsdjeg/terminal.nvim/releases)           | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/terminal.nvim)](https://luarocks.org/modules/wsdjeg/terminal.nvim)           | simple floating terminal plugin for Neovim              |
-| [todo.nvim](https://github.com/wsdjeg/todo.nvim)                   | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/todo.nvim)](https://github.com/wsdjeg/todo.nvim/releases)                   | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/todo.nvim)](https://luarocks.org/modules/wsdjeg/todo.nvim)                   | project todo manager                                    |
-| [toml.nvim](https://github.com/wsdjeg/toml.nvim)                   | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/toml.nvim)](https://github.com/wsdjeg/toml.nvim/releases)                   | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/toml.nvim)](https://luarocks.org/modules/wsdjeg/toml.nvim)                   | toml file parser                                        |
-| [utils.nvim](https://github.com/wsdjeg/utils.nvim)                 | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/utils.nvim)](https://github.com/wsdjeg/utils.nvim/releases)                 | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/utils.nvim)](https://luarocks.org/modules/wsdjeg/utils.nvim)                 | A collection of useful utilities for neovim.            |
-| [zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim)   | [![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/zettelkasten.nvim)](https://github.com/wsdjeg/zettelkasten.nvim/releases)   | [![luarocks](https://img.shields.io/luarocks/v/wsdjeg/zettelkasten.nvim)](https://luarocks.org/modules/wsdjeg/zettelkasten.nvim)   | a Zettelkasten note taking plugin                       |
-
+- [altf.nvim](https://github.com/wsdjeg/altf.nvim) - alternate files manager
+- [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) - bookmarks manager for neovim
+- [bufdel.nvim](https://github.com/wsdjeg/bufdel.nvim) - delete buffer without changing windows layout
+- [calendar.nvim](https://github.com/wsdjeg/calendar.nvim) -
+- [chineselinter.nvim](https://github.com/wsdjeg/chineselinter.nvim) - Chinese Document Language Standards Checking Tool
+- [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) - async code runner for neovim
+- [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim) - a lightweight color palette for Neovim
+- [ctags.nvim](https://github.com/wsdjeg/ctags.nvim) - ctags integration in neovim
+- [ctrlg.nvim](https://github.com/wsdjeg/ctrlg.nvim) - better ctrl-g info
+- [dashboard-nvim](https://github.com/wsdjeg/dashboard-nvim) - forked dashboard plug
+- [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim) - grep on the fly
+- [format.nvim](https://github.com/wsdjeg/format.nvim) - asynchronous code formatting plugin for neovim
+- [git.nvim](https://github.com/wsdjeg/git.nvim) - git integration in neovim
+- [github.nvim](https://github.com/wsdjeg/github.nvim) - github REST api
+- [gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim) - Goto/Copy File's Online Link
+- [gtags.nvim](https://github.com/wsdjeg/gtags.nvim) - integrates gtags with Neovim
+- [hop.nvim](https://github.com/wsdjeg/hop.nvim) - forked hop
+- [iedit.nvim](https://github.com/wsdjeg/iedit.nvim) - iedit mode for neovim
+- [job.nvim](https://github.com/wsdjeg/job.nvim) - neovim job api
+- [keymap-guide.nvim](https://github.com/wsdjeg/keymap-guide.nvim) - floating key binding guide
+- [logevent.nvim](https://github.com/wsdjeg/logevent.nvim) -
+- [logger.nvim](https://github.com/wsdjeg/logger.nvim) - neovim runtime logger
+- [mru.nvim](https://github.com/wsdjeg/mru.nvim) - mru(most recently used) files
+- [music-player.nvim](https://github.com/wsdjeg/music-player.nvim) - neovim music player
+- [notify.nvim](https://github.com/wsdjeg/notify.nvim) - floating notification
+- [nvim-plug](https://github.com/wsdjeg/nvim-plug) - neovim plugin manager
+- [picker.nvim](https://github.com/wsdjeg/picker.nvim) - a lightweight, high-performance fuzzy finder for Neovim
+- [quickfix.nvim](https://github.com/wsdjeg/quickfix.nvim) -
+- [record-key.nvim](https://github.com/wsdjeg/record-key.nvim) - key binding recording tool
+- [record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim) - screen recording
+- [repl.nvim](https://github.com/wsdjeg/repl.nvim) - repl support for neovim
+- [rooter.nvim](https://github.com/wsdjeg/rooter.nvim) - Changes Neovim working directory to project root.
+- [scratch.nvim](https://github.com/wsdjeg/scratch.nvim) -
+- [scrollbar.nvim](https://github.com/wsdjeg/scrollbar.nvim) - floating scrollbar
+- [smart-ime.nvim](https://github.com/wsdjeg/smart-ime.nvim) -
+- [statusline.nvim](https://github.com/wsdjeg/statusline.nvim) - module statusline
+- [tabline.nvim](https://github.com/wsdjeg/tabline.nvim) - simple tabline plugin for Neovim
+- [tasks.nvim](https://github.com/wsdjeg/tasks.nvim) - tasks manager inspired from vscode
+- [terminal.nvim](https://github.com/wsdjeg/terminal.nvim) - simple floating terminal plugin for Neovim
+- [todo.nvim](https://github.com/wsdjeg/todo.nvim) - project todo manager
+- [toml.nvim](https://github.com/wsdjeg/toml.nvim) - toml file parser
+- [utils.nvim](https://github.com/wsdjeg/utils.nvim) - A collection of useful utilities for neovim.
+- [zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim) - a Zettelkasten note taking plugin
 <!-- nvim-plugins end -->
-</details>
 
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Neovim buffer 删除插件 bufdel.nvim](https://wsdjeg.net/bufdel-without-changing-window-layout/)
+
 - [Neovim 日历插件 calendar.nvim](https://wsdjeg.net/neovim-minimal-calendar/)
 - [文件路径大小写敏感导致 Lua 模块重载](https://wsdjeg.net/lua-module-reload-path-case-sensitivity/)
 - [Neovim 悬浮滚动条 scrollbar.nvim](https://wsdjeg.net/floating-scrollbar-for-neovim/)
@@ -85,4 +74,5 @@ Feel free to try them out, and you're welcome to open issues or send feedback.
 - [Lua 可变参数](https://wsdjeg.net/lua-function-argvs/)
 - [高效处理 Markdown 中的代码块](https://wsdjeg.net/code-block-in-markdown/)
 - [为什么停止维护 SpaceVim](https://wsdjeg.net/why-spacevim-is-archived/)
+- [解决 Windows 系统下输入法问题](https://wsdjeg.net/neovim-im-select-in-windows/)
 <!-- BLOG-POST-LIST:END -->
