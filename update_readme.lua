@@ -22,7 +22,7 @@ function M.update(...)
 end
 
 local function generate_content()
-	local lines = { "| name | release | luarocks | description |", "| --- | --- | --- | --- |" }
+	local lines = {}
 	local plugs = require("plug").get()
 	local names = vim.tbl_keys(plugs)
 	table.sort(names)
@@ -31,23 +31,11 @@ local function generate_content()
 		if vim.startswith(v[1], "wsdjeg") and vim.regex('nvim'):match_str(v[1]) then
 			table.insert(
 				lines,
-				"["
+				"- ["
 					.. v.name
 					.. "](https://github.com/"
 					.. v[1]
-					.. ") | "
-					.. "[![GitHub Release](https://img.shields.io/github/v/release/wsdjeg/"
-					.. v.name
-					.. ")](https://github.com/wsdjeg/"
-					.. v.name
-					.. "/releases)"
-					.. " | "
-					.. "[![luarocks](https://img.shields.io/luarocks/v/wsdjeg/"
-					.. v.name
-					.. ")](https://luarocks.org/modules/wsdjeg/"
-					.. v.name
-					.. ")"
-					.. " | "
+					.. ") - "
 					.. (v.desc or "")
 			)
 		end

@@ -17,7 +17,7 @@ Feel free to try them out, and you're welcome to open issues or send feedback.
 - [altf.nvim](https://github.com/wsdjeg/altf.nvim) - alternate files manager
 - [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) - bookmarks manager for neovim
 - [bufdel.nvim](https://github.com/wsdjeg/bufdel.nvim) - delete buffer without changing windows layout
-- [calendar.nvim](https://github.com/wsdjeg/calendar.nvim) -
+- [calendar.nvim](https://github.com/wsdjeg/calendar.nvim) - A lightweight and extensible calendar plugin for Neovim.
 - [chineselinter.nvim](https://github.com/wsdjeg/chineselinter.nvim) - Chinese Document Language Standards Checking Tool
 - [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) - async code runner for neovim
 - [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim) - a lightweight color palette for Neovim
@@ -51,6 +51,7 @@ Feel free to try them out, and you're welcome to open issues or send feedback.
 - [smart-ime.nvim](https://github.com/wsdjeg/smart-ime.nvim) -
 - [statusline.nvim](https://github.com/wsdjeg/statusline.nvim) - module statusline
 - [tabline.nvim](https://github.com/wsdjeg/tabline.nvim) - simple tabline plugin for Neovim
+- [tabman.nvim](https://github.com/wsdjeg/tabman.nvim) - A lightweight tab and window manager for Neovim.
 - [tasks.nvim](https://github.com/wsdjeg/tasks.nvim) - tasks manager inspired from vscode
 - [terminal.nvim](https://github.com/wsdjeg/terminal.nvim) - simple floating terminal plugin for Neovim
 - [todo.nvim](https://github.com/wsdjeg/todo.nvim) - project todo manager
@@ -62,6 +63,7 @@ Feel free to try them out, and you're welcome to open issues or send feedback.
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Neovim buffer 删除插件 bufdel.nvim](https://wsdjeg.net/bufdel-without-changing-window-layout/)
 - [Neovim 日历插件 calendar.nvim](https://wsdjeg.net/neovim-minimal-calendar/)
 - [文件路径大小写敏感导致 Lua 模块重载](https://wsdjeg.net/lua-module-reload-path-case-sensitivity/)
