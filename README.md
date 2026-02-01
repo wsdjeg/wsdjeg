@@ -1,5 +1,7 @@
 ### Hey 👋, I'm Eric Wong
 
+Neovim plugin developer focusing on lightweight, practical and well-designed Lua tooling.
+
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
@@ -9,8 +11,10 @@
 
 ### Recent Projects
 
-These are the Neovim plugins I build and maintain regularly.  
-Feel free to try them out, and you're welcome to open issues or send feedback.
+A collection of Neovim plugins that I actively build and maintain.  
+Most of them focus on performance, minimal UI, and clear APIs.
+
+Feedback and contributions are always welcome.
 
 <!-- nvim-plugins start -->
 
@@ -60,7 +64,7 @@ Feel free to try them out, and you're welcome to open issues or send feedback.
 - [zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim) - a Zettelkasten note taking plugin
 <!-- nvim-plugins end -->
 
-### Recent posts
+### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
 
