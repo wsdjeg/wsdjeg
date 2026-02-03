@@ -67,6 +67,7 @@ Feedback and contributions are always welcome.
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovim 智能对话伙伴 chat.nvim](https://wsdjeg.net/integrate-ai-chat-into-neovim/)
 - [Neovim buffer 删除插件 bufdel.nvim](https://wsdjeg.net/bufdel-without-changing-window-layout/)
 - [Neovim 日历插件 calendar.nvim](https://wsdjeg.net/neovim-minimal-calendar/)
 - [文件路径大小写敏感导致 Lua 模块重载](https://wsdjeg.net/lua-module-reload-path-case-sensitivity/)
@@ -81,5 +82,4 @@ Feedback and contributions are always welcome.
 - [为什么有那么多人讨厌清朝？](https://wsdjeg.net/20250903/)
 - [Lua 可变参数](https://wsdjeg.net/lua-function-argvs/)
 - [高效处理 Markdown 中的代码块](https://wsdjeg.net/code-block-in-markdown/)
-- [为什么停止维护 SpaceVim](https://wsdjeg.net/why-spacevim-is-archived/)
 <!-- BLOG-POST-LIST:END -->
