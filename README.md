@@ -68,7 +68,6 @@ Feedback and contributions are always welcome.
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Neovim 智能对话伙伴 chat.nvim](https://wsdjeg.net/integrate-ai-chat-into-neovim/)
 - [Neovim buffer 删除插件 bufdel.nvim](https://wsdjeg.net/bufdel-without-changing-window-layout/)
 - [Neovim 日历插件 calendar.nvim](https://wsdjeg.net/neovim-minimal-calendar/)
