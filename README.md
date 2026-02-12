@@ -22,11 +22,12 @@ Feedback and contributions are always welcome.
 - [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) - bookmarks manager for neovim
 - [bufdel.nvim](https://github.com/wsdjeg/bufdel.nvim) - delete buffer without changing windows layout
 - [calendar.nvim](https://github.com/wsdjeg/calendar.nvim) - A lightweight and extensible calendar plugin for Neovim.
+- [chat.nvim](https://github.com/wsdjeg/chat.nvim) - A lightweight Lua chat plugin for Neovim with AI integration.
 - [chineselinter.nvim](https://github.com/wsdjeg/chineselinter.nvim) - Chinese Document Language Standards Checking Tool
 - [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) - async code runner for neovim
 - [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim) - a lightweight color palette for Neovim
 - [ctags.nvim](https://github.com/wsdjeg/ctags.nvim) - ctags integration in neovim
-- [ctrlg.nvim](https://github.com/wsdjeg/ctrlg.nvim) - better ctrl-g info
+- [ctrlg.nvim](https://github.com/wsdjeg/ctrlg.nvim) - enhanced Ctrl-G status information
 - [dashboard-nvim](https://github.com/wsdjeg/dashboard-nvim) - forked dashboard plug
 - [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim) - grep on the fly
 - [format.nvim](https://github.com/wsdjeg/format.nvim) - asynchronous code formatting plugin for neovim
@@ -67,6 +68,7 @@ Feedback and contributions are always welcome.
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Neovim 智能对话伙伴 chat.nvim](https://wsdjeg.net/integrate-ai-chat-into-neovim/)
 - [Neovim buffer 删除插件 bufdel.nvim](https://wsdjeg.net/bufdel-without-changing-window-layout/)
 - [Neovim 日历插件 calendar.nvim](https://wsdjeg.net/neovim-minimal-calendar/)
