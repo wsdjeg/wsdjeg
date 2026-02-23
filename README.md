@@ -18,51 +18,51 @@ Feedback and contributions are always welcome.
 
 <!-- nvim-plugins start -->
 
-- [altf.nvim](https://github.com/wsdjeg/altf.nvim) - alternate files manager
-- [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) - bookmarks manager for neovim
-- [bufdel.nvim](https://github.com/wsdjeg/bufdel.nvim) - delete buffer without changing windows layout
-- [calendar.nvim](https://github.com/wsdjeg/calendar.nvim) - A lightweight and extensible calendar plugin for Neovim.
-- [chat.nvim](https://github.com/wsdjeg/chat.nvim) - A lightweight Lua chat plugin for Neovim with AI integration.
-- [chineselinter.nvim](https://github.com/wsdjeg/chineselinter.nvim) - Chinese Document Language Standards Checking Tool
-- [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) - async code runner for neovim
-- [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim) - a lightweight color palette for Neovim
-- [ctags.nvim](https://github.com/wsdjeg/ctags.nvim) - ctags integration in neovim
-- [ctrlg.nvim](https://github.com/wsdjeg/ctrlg.nvim) - enhanced Ctrl-G status information
-- [dashboard-nvim](https://github.com/wsdjeg/dashboard-nvim) - forked dashboard plug
-- [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim) - grep on the fly
-- [format.nvim](https://github.com/wsdjeg/format.nvim) - asynchronous code formatting plugin for neovim
-- [git.nvim](https://github.com/wsdjeg/git.nvim) - git integration in neovim
-- [github.nvim](https://github.com/wsdjeg/github.nvim) - github REST api
-- [gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim) - Goto/Copy File's Online Link
-- [gtags.nvim](https://github.com/wsdjeg/gtags.nvim) - integrates gtags with Neovim
-- [hop.nvim](https://github.com/wsdjeg/hop.nvim) - forked hop
-- [iedit.nvim](https://github.com/wsdjeg/iedit.nvim) - iedit mode for neovim
-- [job.nvim](https://github.com/wsdjeg/job.nvim) - neovim job api
-- [keymap-guide.nvim](https://github.com/wsdjeg/keymap-guide.nvim) - floating key binding guide
-- [logevent.nvim](https://github.com/wsdjeg/logevent.nvim) -
-- [logger.nvim](https://github.com/wsdjeg/logger.nvim) - neovim runtime logger
-- [mru.nvim](https://github.com/wsdjeg/mru.nvim) - mru(most recently used) files
-- [music-player.nvim](https://github.com/wsdjeg/music-player.nvim) - neovim music player
-- [notify.nvim](https://github.com/wsdjeg/notify.nvim) - floating notification
-- [nvim-plug](https://github.com/wsdjeg/nvim-plug) - neovim plugin manager
-- [picker.nvim](https://github.com/wsdjeg/picker.nvim) - a lightweight, high-performance fuzzy finder for Neovim
-- [quickfix.nvim](https://github.com/wsdjeg/quickfix.nvim) -
-- [record-key.nvim](https://github.com/wsdjeg/record-key.nvim) - key binding recording tool
-- [record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim) - screen recording
-- [repl.nvim](https://github.com/wsdjeg/repl.nvim) - repl support for neovim
-- [rooter.nvim](https://github.com/wsdjeg/rooter.nvim) - Changes Neovim working directory to project root.
-- [scratch.nvim](https://github.com/wsdjeg/scratch.nvim) -
-- [scrollbar.nvim](https://github.com/wsdjeg/scrollbar.nvim) - floating scrollbar
-- [smart-ime.nvim](https://github.com/wsdjeg/smart-ime.nvim) -
-- [statusline.nvim](https://github.com/wsdjeg/statusline.nvim) - module statusline
-- [tabline.nvim](https://github.com/wsdjeg/tabline.nvim) - simple tabline plugin for Neovim
-- [tabman.nvim](https://github.com/wsdjeg/tabman.nvim) - A lightweight tab and window manager for Neovim.
-- [tasks.nvim](https://github.com/wsdjeg/tasks.nvim) - tasks manager inspired from vscode
-- [terminal.nvim](https://github.com/wsdjeg/terminal.nvim) - simple floating terminal plugin for Neovim
-- [todo.nvim](https://github.com/wsdjeg/todo.nvim) - project todo manager
-- [toml.nvim](https://github.com/wsdjeg/toml.nvim) - toml file parser
-- [utils.nvim](https://github.com/wsdjeg/utils.nvim) - A collection of useful utilities for neovim.
-- [zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim) - a Zettelkasten note taking plugin
+1. [altf.nvim](https://github.com/wsdjeg/altf.nvim) - alternate files manager
+2. [bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) - bookmarks manager for neovim
+3. [bufdel.nvim](https://github.com/wsdjeg/bufdel.nvim) - delete buffer without changing windows layout
+4. [calendar.nvim](https://github.com/wsdjeg/calendar.nvim) - A lightweight and extensible calendar plugin for Neovim.
+5. [chat.nvim](https://github.com/wsdjeg/chat.nvim) - A lightweight Lua chat plugin for Neovim with AI integration.
+6. [chineselinter.nvim](https://github.com/wsdjeg/chineselinter.nvim) - Chinese Document Language Standards Checking Tool
+7. [code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) - async code runner for neovim
+8. [cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim) - a lightweight color palette for Neovim
+9. [ctags.nvim](https://github.com/wsdjeg/ctags.nvim) - ctags integration in neovim
+10. [ctrlg.nvim](https://github.com/wsdjeg/ctrlg.nvim) - enhanced Ctrl-G status information
+11. [dashboard-nvim](https://github.com/wsdjeg/dashboard-nvim) - forked dashboard plug
+12. [flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim) - grep on the fly
+13. [format.nvim](https://github.com/wsdjeg/format.nvim) - asynchronous code formatting plugin for neovim
+14. [git.nvim](https://github.com/wsdjeg/git.nvim) - git integration in neovim
+15. [github.nvim](https://github.com/wsdjeg/github.nvim) - github REST api
+16. [gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim) - Goto/Copy File's Online Link
+17. [gtags.nvim](https://github.com/wsdjeg/gtags.nvim) - integrates gtags with Neovim
+18. [hop.nvim](https://github.com/wsdjeg/hop.nvim) - forked hop
+19. [iedit.nvim](https://github.com/wsdjeg/iedit.nvim) - iedit mode for neovim
+20. [job.nvim](https://github.com/wsdjeg/job.nvim) - neovim job api
+21. [keymap-guide.nvim](https://github.com/wsdjeg/keymap-guide.nvim) - floating key binding guide
+22. [logevent.nvim](https://github.com/wsdjeg/logevent.nvim) -
+23. [logger.nvim](https://github.com/wsdjeg/logger.nvim) - neovim runtime logger
+24. [mru.nvim](https://github.com/wsdjeg/mru.nvim) - mru(most recently used) files
+25. [music-player.nvim](https://github.com/wsdjeg/music-player.nvim) - neovim music player
+26. [notify.nvim](https://github.com/wsdjeg/notify.nvim) - floating notification
+27. [nvim-plug](https://github.com/wsdjeg/nvim-plug) - neovim plugin manager
+28. [picker.nvim](https://github.com/wsdjeg/picker.nvim) - a lightweight, high-performance fuzzy finder for Neovim
+29. [quickfix.nvim](https://github.com/wsdjeg/quickfix.nvim) -
+30. [record-key.nvim](https://github.com/wsdjeg/record-key.nvim) - key binding recording tool
+31. [record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim) - screen recording
+32. [repl.nvim](https://github.com/wsdjeg/repl.nvim) - repl support for neovim
+33. [rooter.nvim](https://github.com/wsdjeg/rooter.nvim) - Changes Neovim working directory to project root.
+34. [scratch.nvim](https://github.com/wsdjeg/scratch.nvim) -
+35. [scrollbar.nvim](https://github.com/wsdjeg/scrollbar.nvim) - floating scrollbar
+36. [smart-ime.nvim](https://github.com/wsdjeg/smart-ime.nvim) -
+37. [statusline.nvim](https://github.com/wsdjeg/statusline.nvim) - module statusline
+38. [tabline.nvim](https://github.com/wsdjeg/tabline.nvim) - simple tabline plugin for Neovim
+39. [tabman.nvim](https://github.com/wsdjeg/tabman.nvim) - A lightweight tab and window manager for Neovim.
+40. [tasks.nvim](https://github.com/wsdjeg/tasks.nvim) - tasks manager inspired from vscode
+41. [terminal.nvim](https://github.com/wsdjeg/terminal.nvim) - simple floating terminal plugin for Neovim
+42. [todo.nvim](https://github.com/wsdjeg/todo.nvim) - project todo manager
+43. [toml.nvim](https://github.com/wsdjeg/toml.nvim) - toml file parser
+44. [utils.nvim](https://github.com/wsdjeg/utils.nvim) - A collection of useful utilities for neovim.
+45. [zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim) - a Zettelkasten note taking plugin
 <!-- nvim-plugins end -->
 
 ### Recent Posts

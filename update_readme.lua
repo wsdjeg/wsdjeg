@@ -26,18 +26,20 @@ local function generate_content()
 	local plugs = require("plug").get()
 	local names = vim.tbl_keys(plugs)
 	table.sort(names)
+    local idx = 1
 	for _, name in ipairs(names) do
 		local v = plugs[name]
 		if vim.startswith(v[1], "wsdjeg") and vim.regex('nvim'):match_str(v[1]) then
 			table.insert(
 				lines,
-				"- ["
+				idx .. ". ["
 					.. v.name
 					.. "](https://github.com/"
 					.. v[1]
 					.. ") - "
 					.. (v.desc or "")
 			)
+            idx = idx + 1
 		end
 	end
 	return lines
