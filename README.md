@@ -68,6 +68,7 @@ Feedback and contributions are always welcome.
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [为什么仍然在使用 job.nvim](https://wsdjeg.net/why-use-job-instead-of-vim-system/)
 - [从零开始理解如何制作自己的 AI 助手](https://wsdjeg.net/ai-assistant-implementation-from-scratch/)
 - [Neovim 智能对话伙伴 chat.nvim](https://wsdjeg.net/integrate-ai-chat-into-neovim/)
 - [Neovim buffer 删除插件 bufdel.nvim](https://wsdjeg.net/bufdel-without-changing-window-layout/)
@@ -82,5 +83,4 @@ Feedback and contributions are always welcome.
 - [Neovim 模糊搜索插件 picker.nvim](https://wsdjeg.net/neovim-fuzzy-finder-picker-nvim/)
 - [Github 仓库自动 release](https://wsdjeg.net/release-please-action/)
 - [为什么有那么多人讨厌清朝？](https://wsdjeg.net/20250903/)
-- [Lua 可变参数](https://wsdjeg.net/lua-function-argvs/)
 <!-- BLOG-POST-LIST:END -->
