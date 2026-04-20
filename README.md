@@ -68,6 +68,7 @@ Feedback and contributions are always welcome.
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [curl 请求体长度限制问题及解决方案](https://wsdjeg.net/curl-stdin-body/)
 - [GLM-5 流式 Tool Call 异常分析（基于 curl 原始输出）](https://wsdjeg.net/glm5-streaming-toolcall-analysis/)
 - [job.nvim raw 参数导致 JSON 解析失败](https://wsdjeg.net/job-nvim-raw-json-parsing/)
 - [为什么仍然在使用 job.nvim](https://wsdjeg.net/why-use-job-instead-of-vim-system/)
@@ -82,5 +83,4 @@ Feedback and contributions are always welcome.
 - [发现 Git 仓库中幽灵文件](https://wsdjeg.net/find-ghosts-file-in-git-repository/)
 - [Neovim 中使用 luarocks](https://wsdjeg.net/using-luarocks-in-neovim/)
 - [Neovim 窗口 API 参数 noautocmd 测试](https://wsdjeg.net/neovim-nvim-win-noautocmd/)
-- [Neovim 模糊搜索插件 picker.nvim](https://wsdjeg.net/neovim-fuzzy-finder-picker-nvim/)
 <!-- BLOG-POST-LIST:END -->
