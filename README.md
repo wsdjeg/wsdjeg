@@ -68,6 +68,7 @@ Feedback and contributions are always welcome.
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nova：chat.nvim 的 Android 客户端](https://wsdjeg.net/introducing-nova/)
 - [curl 请求体长度限制问题及解决方案](https://wsdjeg.net/curl-stdin-body/)
 - [阿里云 Coding Plan Bug：流式输出内容截断](https://wsdjeg.net/aliyuncs-coding-plan-content-truncated-bug/)
 - [阿里云 Coding Plan GLM-5 流式 Tool Call 异常输出](https://wsdjeg.net/glm5-streaming-toolcall-analysis/)
@@ -82,5 +83,4 @@ Feedback and contributions are always welcome.
 - [如何正确地使用 ftplugin 目录](https://wsdjeg.net/how-to-use-ftplugin-directory/)
 - [本地化管理 Github secrets](https://wsdjeg.net/local-github-secrets/)
 - [发现 Git 仓库中幽灵文件](https://wsdjeg.net/find-ghosts-file-in-git-repository/)
-- [Neovim 中使用 luarocks](https://wsdjeg.net/using-luarocks-in-neovim/)
 <!-- BLOG-POST-LIST:END -->
