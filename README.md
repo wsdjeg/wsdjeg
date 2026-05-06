@@ -68,6 +68,7 @@ Feedback and contributions are always welcome.
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [在手机上安装 Termux + chat.nvim + Nova：打造移动端 AI 编程助手](https://wsdjeg.net/termux-chat-nvim-nova/)
 - [Nova v1.0.0 正式发布](https://wsdjeg.net/nova-v1-0-0-release/)
 - [Nova - chat.nvim 的 Android 客户端](https://wsdjeg.net/introducing-nova/)
 - [curl 请求体长度限制问题及解决方案](https://wsdjeg.net/curl-stdin-body/)
@@ -82,5 +83,4 @@ Feedback and contributions are always welcome.
 - [文件路径大小写敏感导致 Lua 模块重载](https://wsdjeg.net/lua-module-reload-path-case-sensitivity/)
 - [Neovim 悬浮滚动条 scrollbar.nvim](https://wsdjeg.net/floating-scrollbar-for-neovim/)
 - [如何正确地使用 ftplugin 目录](https://wsdjeg.net/how-to-use-ftplugin-directory/)
-- [本地化管理 Github secrets](https://wsdjeg.net/local-github-secrets/)
 <!-- BLOG-POST-LIST:END -->
