@@ -73,6 +73,7 @@ Feedback and contributions are always welcome.
 - [Nova - chat.nvim 的 Android 客户端](https://wsdjeg.net/introducing-nova/)
 - [curl 请求体长度限制问题及解决方案](https://wsdjeg.net/curl-stdin-body/)
 - [阿里云 Coding Plan Bug：流式输出内容截断](https://wsdjeg.net/aliyuncs-coding-plan-content-truncated-bug/)
+- [Neovim 配置管理最佳实践](https://wsdjeg.net/neovim-config-best-practices/)
 - [阿里云 Coding Plan GLM-5 流式 Tool Call 异常输出](https://wsdjeg.net/glm5-streaming-toolcall-analysis/)
 - [job.nvim raw 参数导致 JSON 解析失败](https://wsdjeg.net/job-nvim-raw-json-parsing/)
 - [为什么仍然在使用 job.nvim](https://wsdjeg.net/why-use-job-instead-of-vim-system/)
@@ -82,5 +83,4 @@ Feedback and contributions are always welcome.
 - [Neovim 日历插件 calendar.nvim](https://wsdjeg.net/neovim-minimal-calendar/)
 - [文件路径大小写敏感导致 Lua 模块重载](https://wsdjeg.net/lua-module-reload-path-case-sensitivity/)
 - [Neovim 悬浮滚动条 scrollbar.nvim](https://wsdjeg.net/floating-scrollbar-for-neovim/)
-- [如何正确地使用 ftplugin 目录](https://wsdjeg.net/how-to-use-ftplugin-directory/)
 <!-- BLOG-POST-LIST:END -->
