@@ -69,6 +69,7 @@ Feedback and contributions are always welcome.
 
 <!-- BLOG-POST-LIST:START -->
 - [chat.nvim 定时任务的设计与实现](https://wsdjeg.net/chat-nvim-scheduled-tasks/)
+- [回乡记：老学校与旧友](https://wsdjeg.net/back-to-hometown/)
 - [AI 越狱新姿势：当 Makefile 成为沙箱逃逸的后门](https://wsdjeg.net/ai-jailbreak-makefile-sandbox-escape/)
 - [在手机上安装 Termux + chat.nvim + Nova：打造移动端 AI 编程助手](https://wsdjeg.net/termux-chat-nvim-nova/)
 - [Nova v1.0.0 正式发布](https://wsdjeg.net/nova-v1-0-0-release/)
@@ -82,5 +83,4 @@ Feedback and contributions are always welcome.
 - [从零开始理解如何制作自己的 AI 助手](https://wsdjeg.net/ai-assistant-implementation-from-scratch/)
 - [Neovim 智能对话伙伴 chat.nvim](https://wsdjeg.net/integrate-ai-chat-into-neovim/)
 - [Neovim buffer 删除插件 bufdel.nvim](https://wsdjeg.net/bufdel-without-changing-window-layout/)
-- [Neovim 日历插件 calendar.nvim](https://wsdjeg.net/neovim-minimal-calendar/)
 <!-- BLOG-POST-LIST:END -->
