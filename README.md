@@ -71,7 +71,7 @@ Feedback and contributions are always welcome.
 - [chat.nvim 定时任务的设计与实现](https://wsdjeg.net/chat-nvim-scheduled-tasks/)
 - [回乡记：老学校与旧友](https://wsdjeg.net/back-to-hometown/)
 - [AI 越狱新姿势：当 Makefile 成为沙箱逃逸的后门](https://wsdjeg.net/ai-jailbreak-makefile-sandbox-escape/)
-- [在手机上安装 Termux + chat.nvim + Nova：打造移动端 AI 编程助手](https://wsdjeg.net/termux-chat-nvim-nova/)
+- [手机移动端 AI 助手：Termux + chat.nvim + Nova](https://wsdjeg.net/termux-chat-nvim-nova/)
 - [Nova v1.0.0 正式发布](https://wsdjeg.net/nova-v1-0-0-release/)
 - [Nova - chat.nvim 的 Android 客户端](https://wsdjeg.net/introducing-nova/)
 - [curl 请求体长度限制问题及解决方案](https://wsdjeg.net/curl-stdin-body/)
