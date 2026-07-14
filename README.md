@@ -68,6 +68,7 @@ Feedback and contributions are always welcome.
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [别拿 X 当创作主阵地：被幽灵禁言后我才明白](https://wsdjeg.net/dont-use-x-as-primary-platform/)
 - [chat.nvim v1.8.0：自动重试、用户画像与定时任务重写](https://wsdjeg.net/chat-nvim-v1-8-0-release/)
 - [chat.nvim 定时任务的设计与实现](https://wsdjeg.net/chat-nvim-scheduled-tasks/)
 - [回乡记：老学校与旧友](https://wsdjeg.net/back-to-hometown/)
@@ -82,5 +83,4 @@ Feedback and contributions are always welcome.
 - [job.nvim raw 参数导致 JSON 解析失败](https://wsdjeg.net/job-nvim-raw-json-parsing/)
 - [为什么仍然在使用 job.nvim](https://wsdjeg.net/why-use-job-instead-of-vim-system/)
 - [从零开始理解如何制作自己的 AI 助手](https://wsdjeg.net/ai-assistant-implementation-from-scratch/)
-- [Neovim 智能对话伙伴 chat.nvim](https://wsdjeg.net/integrate-ai-chat-into-neovim/)
 <!-- BLOG-POST-LIST:END -->
