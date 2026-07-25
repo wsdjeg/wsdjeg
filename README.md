@@ -73,6 +73,7 @@ Feedback and contributions are always welcome.
 - [chat.nvim 定时任务的设计与实现](https://wsdjeg.net/chat-nvim-scheduled-tasks/)
 - [回乡记：老学校与旧友](https://wsdjeg.net/back-to-hometown/)
 - [AI 越狱新姿势：当 Makefile 成为沙箱逃逸的后门](https://wsdjeg.net/ai-jailbreak-makefile-sandbox-escape/)
+- [Nova v2.0 发布：工具调用展示、会话置顶与更多改进](https://wsdjeg.net/nova-v2-0-release/)
 - [Learn Vim 第二十四章：Vim Runtime](https://wsdjeg.net/learn-vim-ch24-vim-runtime/)
 - [Learn Vim 第二十三章：Vim 软件包](https://wsdjeg.net/learn-vim-ch23-vim-packages/)
 - [Learn Vim 第二十二章：Vimrc](https://wsdjeg.net/learn-vim-ch22-vimrc/)
@@ -82,5 +83,4 @@ Feedback and contributions are always welcome.
 - [Learn Vim 第十八章：Git](https://wsdjeg.net/learn-vim-ch18-git/)
 - [Learn Vim 第十七章：折叠](https://wsdjeg.net/learn-vim-ch17-fold/)
 - [Learn Vim 第十六章：标签](https://wsdjeg.net/learn-vim-ch16-tags/)
-- [Learn Vim 第十五章：命令行模式](https://wsdjeg.net/learn-vim-ch15-command-line-mode/)
 <!-- BLOG-POST-LIST:END -->
