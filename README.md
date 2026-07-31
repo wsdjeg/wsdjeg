@@ -68,6 +68,7 @@ Feedback and contributions are always welcome.
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [皖南夏日行：宏村·黄山·翡翠谷·徽州古城](https://wsdjeg.net/wannan-summer-2026/)
 - [别拿 X 当创作主阵地：被幽灵禁言后我才明白](https://wsdjeg.net/dont-use-x-as-primary-platform/)
 - [chat.nvim v1.8.0：自动重试、用户画像与定时任务重写](https://wsdjeg.net/chat-nvim-v1-8-0-release/)
 - [chat.nvim 定时任务的设计与实现](https://wsdjeg.net/chat-nvim-scheduled-tasks/)
@@ -82,5 +83,4 @@ Feedback and contributions are always welcome.
 - [Learn Vim 第十九章：编译](https://wsdjeg.net/learn-vim-ch19-compile/)
 - [Learn Vim 第十八章：Git](https://wsdjeg.net/learn-vim-ch18-git/)
 - [Learn Vim 第十七章：折叠](https://wsdjeg.net/learn-vim-ch17-fold/)
-- [Learn Vim 第十六章：标签](https://wsdjeg.net/learn-vim-ch16-tags/)
 <!-- BLOG-POST-LIST:END -->
