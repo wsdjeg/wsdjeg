@@ -68,6 +68,7 @@ Feedback and contributions are always welcome.
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [chat.nvim v1.10.0：懒加载工具发现与 find_tool](https://wsdjeg.net/chat-nvim-v1-10-0-release/)
 - [Termux 无线 ADB 连接与后台保活配置](https://wsdjeg.net/termux-wireless-adb-keepalive/)
 - [Nova v3.0.0 与 Chat.nvim v1.9.0 双版本发布](https://wsdjeg.net/nova-v3-and-chat-nvim-v1.9.0-released/)
 - [皖南夏日行：宏村·黄山·翡翠谷·徽州古城](https://wsdjeg.net/wannan-summer-2026/)
@@ -82,5 +83,4 @@ Feedback and contributions are always welcome.
 - [Learn Vim 第二十二章：Vimrc](https://wsdjeg.net/learn-vim-ch22-vimrc/)
 - [Learn Vim 第二十一章：多文件操作](https://wsdjeg.net/learn-vim-ch21-multiple-file-operations/)
 - [Learn Vim 第二十章：视图、会话和 Viminfo](https://wsdjeg.net/learn-vim-ch20-views-sessions-viminfo/)
-- [Learn Vim 第十九章：编译](https://wsdjeg.net/learn-vim-ch19-compile/)
 <!-- BLOG-POST-LIST:END -->
