@@ -69,6 +69,7 @@ Feedback and contributions are always welcome.
 
 <!-- BLOG-POST-LIST:START -->
 - [chat.nvim v1.11.0 与 v1.11.1：多 API Key 透明故障转移、截断续写与工具参数归一化](https://wsdjeg.net/chat-nvim-v1-11-0-release/)
+- [Nova v3.2.0：会话内消息搜索，和一次搜索栏返工](https://wsdjeg.net/nova-v3-2-0-release/)
 - [这些年看过的小说](https://wsdjeg.net/novels-i-have-read/)
 - [chat.nvim v1.10.0：懒加载工具发现与 find_tool](https://wsdjeg.net/chat-nvim-v1-10-0-release/)
 - [Termux 无线 ADB 连接与后台保活配置](https://wsdjeg.net/termux-wireless-adb-keepalive/)
@@ -82,5 +83,4 @@ Feedback and contributions are always welcome.
 - [Nova v2.0 发布：工具调用展示、会话置顶与更多改进](https://wsdjeg.net/nova-v2-0-release/)
 - [Learn Vim 第二十四章：Vim Runtime](https://wsdjeg.net/learn-vim-ch24-vim-runtime/)
 - [Learn Vim 第二十三章：Vim 软件包](https://wsdjeg.net/learn-vim-ch23-vim-packages/)
-- [Learn Vim 第二十二章：Vimrc](https://wsdjeg.net/learn-vim-ch22-vimrc/)
 <!-- BLOG-POST-LIST:END -->
