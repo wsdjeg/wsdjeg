@@ -68,6 +68,7 @@ Feedback and contributions are always welcome.
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [chat.nvim v1.12.0：缓存探针、用量账本与飞书权限](https://wsdjeg.net/chat-nvim-v1-12-0-release/)
 - [chat.nvim v1.11.0 与 v1.11.1：多 API Key 透明故障转移、截断续写与工具参数归一化](https://wsdjeg.net/chat-nvim-v1-11-0-release/)
 - [Nova v3.2.0：会话内消息搜索，和一次搜索栏返工](https://wsdjeg.net/nova-v3-2-0-release/)
 - [这些年看过的小说](https://wsdjeg.net/novels-i-have-read/)
@@ -82,5 +83,4 @@ Feedback and contributions are always welcome.
 - [AI 越狱新姿势：当 Makefile 成为沙箱逃逸的后门](https://wsdjeg.net/ai-jailbreak-makefile-sandbox-escape/)
 - [Nova v2.0 发布：工具调用展示、会话置顶与更多改进](https://wsdjeg.net/nova-v2-0-release/)
 - [Learn Vim 第二十四章：Vim Runtime](https://wsdjeg.net/learn-vim-ch24-vim-runtime/)
-- [Learn Vim 第二十三章：Vim 软件包](https://wsdjeg.net/learn-vim-ch23-vim-packages/)
 <!-- BLOG-POST-LIST:END -->
